@@ -1,0 +1,4198 @@
+{
+  "10.1016/j.sysarc.2026.103786": {
+    "indexed": {
+      "date-parts": [[2026, 5, 27]],
+      "date-time": "2026-05-27T12:05:32Z",
+      "timestamp": 1779883532274,
+      "version": "3.53.1"
+    },
+    "reference-count": 42,
+    "publisher": "Elsevier BV",
+    "license": [
+      {
+        "start": {
+          "date-parts": [[2026, 7, 1]],
+          "date-time": "2026-07-01T00:00:00Z",
+          "timestamp": 1782864000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [[2026, 7, 1]],
+          "date-time": "2026-07-01T00:00:00Z",
+          "timestamp": 1782864000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      },
+      {
+        "start": {
+          "date-parts": [[2026, 4, 1]],
+          "date-time": "2026-04-01T00:00:00Z",
+          "timestamp": 1775001600000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100011698",
+        "name": "Regional Government of Castilla-La Mancha",
+        "doi-asserted-by": "publisher",
+        "award": ["SBPLY/21/180225/000103"],
+        "award-info": [
+          {
+            "award-number": ["SBPLY/21/180225/000103"]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100011698",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100000780",
+        "name": "European Commission",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/501100000780",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100008530",
+        "name": "European Regional Development Fund",
+        "doi-asserted-by": "publisher",
+        "award": ["MCIN/AEI/10.13039/501100011033"],
+        "award-info": [
+          {
+            "award-number": ["MCIN/AEI/10.13039/501100011033"]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100008530",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100008530",
+        "name": "European Regional Development Fund",
+        "doi-asserted-by": "publisher",
+        "award": ["PID2022142292NB-I00"],
+        "award-info": [
+          {
+            "award-number": ["PID2022142292NB-I00"]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100008530",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100002924",
+        "name": "Federación Española de Enfermedades Raras",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/501100002924",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100007480",
+        "name": "Universidad de Castilla-La Mancha",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/501100007480",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100017642",
+        "name": "National Plan for Scientific and Technical Research and Innovation",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/501100017642",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100003329",
+        "name": "Ministerio de Asuntos Económicos y Transformación Digital",
+        "doi-asserted-by": "publisher",
+        "award": ["TSI-069100-2023-0014"],
+        "award-info": [
+          {
+            "award-number": ["TSI-069100-2023-0014"]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100003329",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100011033",
+        "name": "Agencia Estatal de Investigación",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/501100011033",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100004837",
+        "name": "Ministerio de Ciencia e Innovación",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/501100004837",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100014440",
+        "name": "Gobierno de España Ministerio de Ciencia e Innovación",
+        "doi-asserted-by": "publisher",
+        "award": ["PID2022142292NB-I00"],
+        "award-info": [
+          {
+            "award-number": ["PID2022142292NB-I00"]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100014440",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": ["elsevier.com", "sciencedirect.com"],
+      "crossmark-restriction": true
+    },
+    "short-container-title": ["Journal of Systems Architecture"],
+    "published-print": {
+      "date-parts": [[2026, 7]]
+    },
+    "DOI": "10.1016/j.sysarc.2026.103786",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [[2026, 4, 2]],
+      "date-time": "2026-04-02T03:17:02Z",
+      "timestamp": 1775099822000
+    },
+    "page": "103786",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "special_numbering": "C",
+    "title": ["On the power saving in high-speed Ethernet-based networks for supercomputers and data centers"],
+    "prefix": "10.1016",
+    "volume": "176",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0009-0001-6893-645X",
+        "authenticated-orcid": false,
+        "given": "Miguel",
+        "family": "Sánchez de la Rosa",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Francisco J.",
+        "family": "Andújar",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jesus",
+        "family": "Escudero-Sahuquillo",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "José L.",
+        "family": "Sánchez",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Francisco J.",
+        "family": "Alfaro-Cortés",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.sysarc.2026.103786_b1",
+        "series-title": "TOP500 list",
+        "author": "Top500.org",
+        "year": "2025"
+      },
+      {
+        "key": "10.1016/j.sysarc.2026.103786_b2",
+        "unstructured": "Top500.org, Green500 list."
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.sysarc.2026.103786_b3",
+        "doi-asserted-by": "crossref",
+        "first-page": "20",
+        "DOI": "10.1109/MM.2012.12",
+        "article-title": "Power-management architecture of the Intel microarchitecture code-named sandy bridge",
+        "volume": "32",
+        "author": "Rotem",
+        "year": "2012",
+        "journal-title": "IEEE Micro"
+      },
+      {
+        "key": "10.1016/j.sysarc.2026.103786_b4",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Dennis Abts, Mike Marty, Philip Wells, Peter Klausler, Hong Liu, Energy Proportional Datacenter Networks, in: Proceedings of the International Symposium on Computer Architecture, 2010, pp. 338–347.",
+        "DOI": "10.1145/1815961.1816004"
+      },
+      {
+        "key": "10.1016/j.sysarc.2026.103786_b5",
+        "series-title": "Serving Large-Scale AI Models: Challenges and Opportunities in the Networking",
+        "author": "German Sviridov (Staff Researcher at AMD in Singapore)",
+        "year": "2025"
+      },
+      {
+        "issue": "7",
+        "key": "10.1016/j.sysarc.2026.103786_b6",
+        "doi-asserted-by": "crossref",
+        "first-page": "960",
+        "DOI": "10.1109/TC.2018.2790394",
+        "article-title": "PerfBound: Conserving energy with bounded overheads in On/Off-based HPC interconnects",
+        "volume": "67",
+        "author": "Saravanan",
+        "year": "2018",
+        "journal-title": "IEEE Trans. Comput."
+      },
+      {
+        "key": "10.1016/j.sysarc.2026.103786_b7",
+        "series-title": "2015 IEEE 23rd Annual Symposium on High-Performance Interconnects",
+        "first-page": "1",
+        "article-title": "Intel® omni-path architecture: Enabling scalable, high performance fabrics",
+        "author": "Birrittella",
+        "year": "2015"
+      },
+      {
+        "key": "10.1016/j.sysarc.2026.103786_b8",
+        "series-title": "InfiniBand architecture specification, volume 1 & 2",
+        "author": "InfiniBand Trade Association",
+        "year": "2025"
+      },
+      {
+        "key": "10.1016/j.sysarc.2026.103786_b9",
+        "unstructured": "Chelsio Communications, RDMA – iWARP."
+      },
+      {
+        "key": "10.1016/j.sysarc.2026.103786_b10",
+        "series-title": "RoCE vs. iWARP competitive analysis (whitepaper)",
+        "author": "NVIDIA Corporation",
+        "year": "2017"
+      },
+      {
+        "key": "10.1016/j.sysarc.2026.103786_b11",
+        "article-title": "Software-managed power reduction in infiniband links",
+        "volume": "vol. 2014",
+        "author": "Dickov",
+        "year": "2014"
+      },
+      {
+        "key": "10.1016/j.sysarc.2026.103786_b12",
+        "doi-asserted-by": "crossref",
+        "first-page": "448",
+        "DOI": "10.1109/TC.2007.70836",
+        "article-title": "Reducing the energy consumption of ethernet with adaptive link rate (ALR)",
+        "volume": "57",
+        "author": "Gunaratne",
+        "year": "2008",
+        "journal-title": "Comput. IEEE Trans. on"
+      },
+      {
+        "key": "10.1016/j.sysarc.2026.103786_b13",
+        "series-title": "Active/idle toggling with low-power idle",
+        "author": "Hays",
+        "year": "2008"
+      },
+      {
+        "key": "10.1016/j.sysarc.2026.103786_b14",
+        "series-title": "IEEE draft P802. 3az™/D2.",
+        "author": "Specifications, Physical Layer",
+        "year": "2009"
+      },
+      {
+        "key": "10.1016/j.sysarc.2026.103786_b15",
+        "first-page": "420",
+        "article-title": "Microarchitecture of a high-radix router",
+        "volume": "vol. 33",
+        "author": "Kim",
+        "year": "2005"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.sysarc.2026.103786_b16",
+        "doi-asserted-by": "crossref",
+        "first-page": "814",
+        "DOI": "10.1007/s11227-022-04692-0",
+        "article-title": "Extending the VEF traces framework to model data center network workloads",
+        "volume": "79",
+        "author": "Andújar",
+        "year": "2023",
+        "journal-title": "J. Supercomput."
+      },
+      {
+        "issue": "11",
+        "key": "10.1016/j.sysarc.2026.103786_b17",
+        "doi-asserted-by": "crossref",
+        "first-page": "1403",
+        "DOI": "10.1109/JSSC.2002.803937",
+        "article-title": "Adaptive supply serial links with sub-1-V operation and per-pin clock recovery",
+        "volume": "37",
+        "author": "Kim",
+        "year": "2002",
+        "journal-title": "IEEE J. Solid-State Circuits"
+      },
+      {
+        "key": "10.1016/j.sysarc.2026.103786_b18",
+        "series-title": "The Ninth International Symposium on High-Performance Computer Architecture, 2003. HPCA-9 2003. Proceedings",
+        "first-page": "91",
+        "article-title": "Dynamic voltage scaling with links for power optimization of interconnection networks",
+        "author": "Shang",
+        "year": "2003"
+      },
+      {
+        "key": "10.1016/j.sysarc.2026.103786_b19",
+        "doi-asserted-by": "crossref",
+        "first-page": "50",
+        "DOI": "10.1109/MCOM.2010.5621967",
+        "article-title": "IEEE 802.3az: The road to energy efficient Ethernet",
+        "volume": "48",
+        "author": "Christensen",
+        "year": "2010",
+        "journal-title": "Commun. Mag. IEEE"
+      },
+      {
+        "key": "10.1016/j.sysarc.2026.103786_b20",
+        "series-title": "Options for EEE in 100G IEEE 802.3bj (Draft)",
+        "author": "Barrass",
+        "year": "2012"
+      },
+      {
+        "key": "10.1016/j.sysarc.2026.103786_b21",
+        "series-title": "ISPASS 2013 - IEEE International Symposium on Performance Analysis of Systems and Software",
+        "first-page": "205",
+        "article-title": "Power/performance evaluation of energy efficient Ethernet (EEE) for high performance computing",
+        "author": "Saravanan",
+        "year": "2013"
+      },
+      {
+        "issue": "9",
+        "key": "10.1016/j.sysarc.2026.103786_b22",
+        "doi-asserted-by": "crossref",
+        "first-page": "697",
+        "DOI": "10.1109/LCOMM.2009.090880",
+        "article-title": "Performance evaluation of energy efficient ethernet",
+        "volume": "13",
+        "author": "Reviriego",
+        "year": "2009",
+        "journal-title": "IEEE Commun. Lett."
+      },
+      {
+        "key": "10.1016/j.sysarc.2026.103786_b23",
+        "doi-asserted-by": "crossref",
+        "first-page": "126",
+        "DOI": "10.1016/j.future.2022.09.012",
+        "article-title": "Energy efficient HPC network topologies with on/off links",
+        "volume": "139",
+        "author": "Andújar",
+        "year": "2023",
+        "journal-title": "Future Gener. Comput. Syst."
+      },
+      {
+        "key": "10.1016/j.sysarc.2026.103786_b24",
+        "series-title": "BullSequana eXascale Interconnect V3: Intelligent Network Management Accelerates GPU Performance in AI-HPC",
+        "first-page": "7",
+        "author": "Eviden SAS",
+        "year": "2024"
+      },
+      {
+        "key": "10.1016/j.sysarc.2026.103786_b25",
+        "series-title": "Proceedings of the 2015 IEEE 23rd Annual Symposium on High-Performance Interconnects",
+        "first-page": "18",
+        "article-title": "The BXI interconnect architecture",
+        "author": "Derradji",
+        "year": "2015"
+      },
+      {
+        "key": "10.1016/j.sysarc.2026.103786_b26",
+        "series-title": "High performance interconnect for extreme HPC workloads",
+        "author": "Atos",
+        "year": "2022"
+      },
+      {
+        "key": "10.1016/j.sysarc.2026.103786_b27",
+        "series-title": "Proceedings of the 2015 ACM Conference on Special Interest Group on Data Communication",
+        "first-page": "523",
+        "article-title": "Congestion control for large-scale RDMA deployments",
+        "author": "Zhu",
+        "year": "2015"
+      },
+      {
+        "key": "10.1016/j.sysarc.2026.103786_b28",
+        "first-page": "223",
+        "article-title": "Modular supercomputing architecture: from idea to production; 3rd",
+        "volume": "vol. 3",
+        "author": "Suarez",
+        "year": "2019"
+      },
+      {
+        "key": "10.1016/j.sysarc.2026.103786_b29",
+        "series-title": "High Performance Computing",
+        "first-page": "289",
+        "article-title": "Megafly: A topology for exascale systems",
+        "author": "Flajslik",
+        "year": "2018"
+      },
+      {
+        "key": "10.1016/j.sysarc.2026.103786_b30",
+        "series-title": "2017 IEEE 3rd International Workshop on High-Performance Interconnection Networks in the Exascale and Big-Data Era",
+        "first-page": "1",
+        "article-title": "Dragonfly+: Low cost topology for scaling datacenters",
+        "author": "Shpiner",
+        "year": "2017"
+      },
+      {
+        "key": "10.1016/j.sysarc.2026.103786_b31",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.micpro.2024.105102",
+        "article-title": "RED-SEA project: Towards a new-generation European interconnect",
+        "volume": "110",
+        "author": "Gómez",
+        "year": "2024",
+        "journal-title": "Microprocess. Microsystems"
+      },
+      {
+        "issue": "13",
+        "key": "10.1016/j.sysarc.2026.103786_b32",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1002/cpe.4066",
+        "article-title": "Providing differentiated services, congestion management, and deadlock freedom in dragonfly networks with adaptive routing",
+        "volume": "29",
+        "author": "Yébenes",
+        "year": "2017",
+        "journal-title": "Concurr. Comput.: Pr. Exp."
+      },
+      {
+        "key": "10.1016/j.sysarc.2026.103786_b33",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Francisco J. Andújar, Juan A. Villar, Jose L. Sánchez, Francisco J. Alfaro, Jesús Escudero-Sahuquillo, VEF Traces: A Framework for Modelling MPI Traffic in Interconnection Network Simulators, in: The 1st IEEE International Workshop on High-Performance Interconnection Networks in the Exascale and Big-Data Era, Chicago, IL, USA, 2015, pp. 841–848.",
+        "DOI": "10.1109/CLUSTER.2015.141"
+      },
+      {
+        "issue": "12",
+        "key": "10.1016/j.sysarc.2026.103786_b34",
+        "doi-asserted-by": "crossref",
+        "first-page": "4601",
+        "DOI": "10.1007/s11227-016-1757-0",
+        "article-title": "An open-source family of tools to reproduce MPI-based workloads in interconnection network simulators",
+        "volume": "72",
+        "author": "Andújar",
+        "year": "2016",
+        "journal-title": "J. Supercomput."
+      },
+      {
+        "key": "10.1016/j.sysarc.2026.103786_b35",
+        "series-title": "CELLIA (Cluster for the Evaluation of Low-Latency Interconnection Architectures)",
+        "author": "Redes y Arquitecturas de Altas Prestaciones (RAAP)",
+        "year": "2023"
+      },
+      {
+        "key": "10.1016/j.sysarc.2026.103786_b36",
+        "series-title": "2018 International Conference on High Performance Computing & Simulation",
+        "first-page": "452",
+        "article-title": "TopGen: A library to provide simulation tools with the modeling of interconnection network topologies",
+        "author": "Villar",
+        "year": "2018"
+      },
+      {
+        "key": "10.1016/j.sysarc.2026.103786_b37",
+        "series-title": "2021 IEEE/ACM 21st International Symposium on Cluster, Cloud and Internet Computing",
+        "first-page": "406",
+        "article-title": "Improving adaptive routing performance on large scale megafly topology",
+        "author": "Newaz",
+        "year": "2021"
+      },
+      {
+        "key": "10.1016/j.sysarc.2026.103786_b38",
+        "article-title": "Fat-trees routing and node ordering providing contention free traffic for MPI global collectives",
+        "volume": "72",
+        "author": "Zahavi",
+        "year": "2011",
+        "journal-title": "J. Parallel Distrib. Comput."
+      },
+      {
+        "key": "10.1016/j.sysarc.2026.103786_b39",
+        "article-title": "A benchmark dataset for meteorological downscaling",
+        "volume": "no. FZJ-2024-07378",
+        "author": "Langguth",
+        "year": "2024"
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.sysarc.2026.103786_b40",
+        "doi-asserted-by": "crossref",
+        "first-page": "84",
+        "DOI": "10.1145/3065386",
+        "article-title": "ImageNet classification with deep convolutional neural networks",
+        "volume": "60",
+        "author": "Krizhevsky",
+        "year": "2017",
+        "journal-title": "Commun. ACM"
+      },
+      {
+        "key": "10.1016/j.sysarc.2026.103786_b41",
+        "series-title": "2017 - International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering",
+        "article-title": "PATMOS: A prototype Monte Carlo transport code to test high performance architectures",
+        "author": "Brun",
+        "year": "2017"
+      },
+      {
+        "key": "10.1016/j.sysarc.2026.103786_b42",
+        "series-title": "Horovod: fast and easy distributed deep learning in TensorFlow",
+        "author": "Sergeev",
+        "year": "2018"
+      }
+    ],
+    "container-title": ["Journal of Systems Architecture"],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1383762126001049?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1383762126001049?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [[2026, 5, 27]],
+      "date-time": "2026-05-27T11:09:26Z",
+      "timestamp": 1779880166000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1383762126001049"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [[2026, 7]]
+    },
+    "references-count": 42,
+    "alternative-id": ["S1383762126001049"],
+    "URL": "https://doi.org/10.1016/j.sysarc.2026.103786",
+    "relation": {},
+    "ISSN": ["1383-7621"],
+    "issn-type": [
+      {
+        "value": "1383-7621",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [[2026, 7]]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "On the power saving in high-speed Ethernet-based networks for supercomputers and data centers",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Journal of Systems Architecture",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.sysarc.2026.103786",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "© 2026 The Authors. Published by Elsevier B.V.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ],
+    "article-number": "103786"
+  },
+  "10.1007/s11227-026-08483-9": {
+    "indexed": {
+      "date-parts": [[2026, 5, 4]],
+      "date-time": "2026-05-04T15:08:34Z",
+      "timestamp": 1777907314302,
+      "version": "3.51.4"
+    },
+    "reference-count": 30,
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "7",
+    "license": [
+      {
+        "start": {
+          "date-parts": [[2026, 5, 1]],
+          "date-time": "2026-05-01T00:00:00Z",
+          "timestamp": 1777593600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0"
+      },
+      {
+        "start": {
+          "date-parts": [[2026, 5, 1]],
+          "date-time": "2026-05-01T00:00:00Z",
+          "timestamp": 1777593600000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100004837",
+        "name": "Ministerio de Ciencia e Innovación, Spain",
+        "doi-asserted-by": "crossref",
+        "award": ["TED2021-130233B-C31"],
+        "award-info": [
+          {
+            "award-number": ["TED2021-130233B-C31"]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100004837",
+            "id-type": "DOI",
+            "asserted-by": "crossref"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100004837",
+        "name": "Ministerio de Ciencia e Innovación, Spain",
+        "doi-asserted-by": "crossref",
+        "award": ["TED2021-130233B-C31"],
+        "award-info": [
+          {
+            "award-number": ["TED2021-130233B-C31"]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100004837",
+            "id-type": "DOI",
+            "asserted-by": "crossref"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100004837",
+        "name": "Ministerio de Ciencia e Innovación, Spain",
+        "doi-asserted-by": "crossref",
+        "award": ["TED2021-130233B-C31"],
+        "award-info": [
+          {
+            "award-number": ["TED2021-130233B-C31"]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100004837",
+            "id-type": "DOI",
+            "asserted-by": "crossref"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100004837",
+        "name": "Ministerio de Ciencia e Innovación, Spain",
+        "doi-asserted-by": "crossref",
+        "award": ["TED2021-130233B-C31"],
+        "award-info": [
+          {
+            "award-number": ["TED2021-130233B-C31"]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100004837",
+            "id-type": "DOI",
+            "asserted-by": "crossref"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100011698",
+        "name": "Junta de Comunidades de Castilla-La Mancha",
+        "doi-asserted-by": "publisher",
+        "award": ["SBPLY/21/180501/000248"],
+        "award-info": [
+          {
+            "award-number": ["SBPLY/21/180501/000248"]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100011698",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100011698",
+        "name": "Junta de Comunidades de Castilla-La Mancha",
+        "doi-asserted-by": "publisher",
+        "award": ["SBPLY/21/180501/000248"],
+        "award-info": [
+          {
+            "award-number": ["SBPLY/21/180501/000248"]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100011698",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100011698",
+        "name": "Junta de Comunidades de Castilla-La Mancha",
+        "doi-asserted-by": "publisher",
+        "award": ["SBPLY/21/180501/000248"],
+        "award-info": [
+          {
+            "award-number": ["SBPLY/21/180501/000248"]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100011698",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100011698",
+        "name": "Junta de Comunidades de Castilla-La Mancha",
+        "doi-asserted-by": "publisher",
+        "award": ["SBPLY/21/180501/000248"],
+        "award-info": [
+          {
+            "award-number": ["SBPLY/21/180501/000248"]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100011698",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100008530",
+        "name": "European Regional Development Fund",
+        "doi-asserted-by": "publisher",
+        "award": ["SBPLY/21/180501/000248"],
+        "award-info": [
+          {
+            "award-number": ["SBPLY/21/180501/000248"]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100008530",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100008530",
+        "name": "European Regional Development Fund",
+        "doi-asserted-by": "publisher",
+        "award": ["SBPLY/21/180501/000248"],
+        "award-info": [
+          {
+            "award-number": ["SBPLY/21/180501/000248"]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100008530",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100008530",
+        "name": "European Regional Development Fund",
+        "doi-asserted-by": "publisher",
+        "award": ["SBPLY/21/180501/000248"],
+        "award-info": [
+          {
+            "award-number": ["SBPLY/21/180501/000248"]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100008530",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100008530",
+        "name": "European Regional Development Fund",
+        "doi-asserted-by": "publisher",
+        "award": ["SBPLY/21/180501/000248"],
+        "award-info": [
+          {
+            "award-number": ["SBPLY/21/180501/000248"]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100008530",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100010198",
+        "name": "Ministerio de Asuntos Económicos y Transformación Digital, Gobierno de España",
+        "doi-asserted-by": "publisher",
+        "award": ["TSI-069100-2023-0014"],
+        "award-info": [
+          {
+            "award-number": ["TSI-069100-2023-0014"]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100010198",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100010198",
+        "name": "Ministerio de Asuntos Económicos y Transformación Digital, Gobierno de España",
+        "doi-asserted-by": "publisher",
+        "award": ["TSI-069100-2023-0014"],
+        "award-info": [
+          {
+            "award-number": ["TSI-069100-2023-0014"]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100010198",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100010198",
+        "name": "Ministerio de Asuntos Económicos y Transformación Digital, Gobierno de España",
+        "doi-asserted-by": "publisher",
+        "award": ["TSI-069100-2023-0014"],
+        "award-info": [
+          {
+            "award-number": ["TSI-069100-2023-0014"]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100010198",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100010198",
+        "name": "Ministerio de Asuntos Económicos y Transformación Digital, Gobierno de España",
+        "doi-asserted-by": "publisher",
+        "award": ["TSI-069100-2023-0014"],
+        "award-info": [
+          {
+            "award-number": ["TSI-069100-2023-0014"]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100010198",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100007480",
+        "name": "Universidad de Castilla-La Mancha",
+        "doi-asserted-by": "publisher",
+        "award": ["2023-GRIN-34056"],
+        "award-info": [
+          {
+            "award-number": ["2023-GRIN-34056"]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100007480",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100007480",
+        "name": "Universidad de Castilla-La Mancha",
+        "doi-asserted-by": "publisher",
+        "award": ["2023-GRIN-34056"],
+        "award-info": [
+          {
+            "award-number": ["2023-GRIN-34056"]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100007480",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100007480",
+        "name": "Universidad de Castilla-La Mancha",
+        "doi-asserted-by": "publisher",
+        "award": ["2023-GRIN-34056"],
+        "award-info": [
+          {
+            "award-number": ["2023-GRIN-34056"]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100007480",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100007480",
+        "name": "Universidad de Castilla-La Mancha",
+        "doi-asserted-by": "publisher",
+        "award": ["2023-GRIN-34056"],
+        "award-info": [
+          {
+            "award-number": ["2023-GRIN-34056"]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100007480",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": ["link.springer.com"],
+      "crossmark-restriction": false
+    },
+    "short-container-title": ["J Supercomput"],
+    "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>In the last decade, specialized computing and storage devices, such as GPUs, TPUs, and high-speed storage, have been incorporated into server nodes of HPC and AI systems. The development of high-bandwidth memory (HBM) enabled a much more compact form factor for these devices, allowing the interconnection of several devices within a server node, typically using an intra-node interconnection network (e.g., PCIe, NVLink, or infinity fabric). Intra-node networks must allow efficient scale-up of the number of these devices within (and even beyond) a single node. Similarly, inter-node networks must enable efficient communication among hundreds of thousands of devices across thousands of server nodes when scale-up domains cannot be larger. Unfortunately, the intra- and inter-node networks may become the system’s bottleneck as communication demand among accelerators increases, driven by emerging applications such as generative AI. Although current intra-node network designs alleviate this bottleneck by increasing intra-node network bandwidth, intra-node communication may hinder inter-node communication performance when traffic from outside the server node arrives at the intra-node network. To evaluate the impact of this interference, we have analyzed intra- and inter-node communication operations generated under realistic traffic scenarios. We have developed a generic intra- and inter-node simulation model in OMNeT++ and have modeled the representative communication operations. We have also performed extensive simulation experiments confirming that increasing the intra-node network bandwidth and the number of computing devices per node (i.e., accelerators) may be counterproductive to the inter-node communication performance.</jats:p>",
+    "DOI": "10.1007/s11227-026-08483-9",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [[2026, 5, 1]],
+      "date-time": "2026-05-01T13:33:51Z",
+      "timestamp": 1777642431000
+    },
+    "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": ["On the impact of intra- and inter-node communication in the performance of interconnection networks in HPC and AI systems"],
+    "prefix": "10.1007",
+    "volume": "82",
+    "author": [
+      {
+        "given": "Joaquin",
+        "family": "Tarraga-Moreno",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Jesus",
+        "family": "Escudero-Sahuquillo",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Pedro J.",
+        "family": "Garcia",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Francisco J.",
+        "family": "Quiles",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [[2026, 5, 1]]
+    },
+    "reference": [
+      {
+        "key": "8483_CR1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Narayanan D, Shoeybi M, Casper J, LeGresley P, Patwary M, Korthikanti VA, Vainbrand D, Kashinkunti P, Bernauer J, Catanzaro B, Phanishayee A, Zaharia M (2021) Efficient Large-Scale Language Model Training on GPU Clusters Using Megatron-LM. arXiv. arXiv:2104.04473 [cs] . Accessed 22 Oct 2024",
+        "DOI": "10.1145/3458817.3476209"
+      },
+      {
+        "key": "8483_CR2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "De Sensi D, Pichetti L, Vella F, De Matteis T, Ren Z, Fusco L, Turisini M, Cesarini D, Lust K, Trivedi A, Roweth D, Spiga F, Di Girolamo S, Hoefler T (2024) Exploring GPU-to-GPU communication: insights into supercomputer interconnects. In: SC24: International Conference for High Performance Computing, Networking, Storage and Analysis, pp 1–15 . https://doi.org/10.1109/SC41406.2024.00039",
+        "DOI": "10.1109/SC41406.2024.00039"
+      },
+      {
+        "issue": "2",
+        "key": "8483_CR3",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1145/2024716.2024718",
+        "volume": "39",
+        "author": "N Binkert",
+        "year": "2011",
+        "unstructured": "Binkert N, Beckmann B, Black G, Reinhardt SK, Saidi A, Basu A, Hestness J, Hower DR, Krishna T, Sardashti S, Sen R, Sewell K, Shoaib M, Vaish N, Hill MD, Wood DA (2011) The gem5 simulator. SIGARCH Comput Archit News 39(2):1–7. https://doi.org/10.1145/2024716.2024718",
+        "journal-title": "SIGARCH Comput Archit News"
+      },
+      {
+        "key": "8483_CR4",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Bhowmik S, Jain N, Yuan X, Bhatele A (2021) A simulation study of hardware parameters for future GPU-based HPC platforms. In: 2021 IEEE International Performance, Computing, and Communications Conference (IPCCC), pp 1–10. https://doi.org/10.1109/IPCCC51483.2021.9679359",
+        "DOI": "10.1109/IPCCC51483.2021.9679359"
+      },
+      {
+        "key": "8483_CR5",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Jain N, Bhatele A, White S, Gamblin T, Kale LV (2016) Evaluating HPC networks via simulation of parallel workloads. In: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis. SC’16",
+        "DOI": "10.1109/SC.2016.13"
+      },
+      {
+        "key": "8483_CR6",
+        "unstructured": "NVIDIA H100 Tensor Core GPU Architecture Overview. [Online; Accessed 18. Dec. 2024] (2024). https://resources.nvidia.com/en-us-tensor-core/gtc22-whitepaper-hopper"
+      },
+      {
+        "key": "8483_CR7",
+        "unstructured": "NVIDIA Grace Hopper Superchip Architecture Whitepaper. [Online; Accessed 18. Dec. 2024] (2024). https://resources.nvidia.com/en-us-grace-cpu/nvidia-grace-hopper"
+      },
+      {
+        "issue": "7",
+        "key": "8483_CR8",
+        "doi-asserted-by": "publisher",
+        "first-page": "29",
+        "DOI": "10.1109/MC.2022.3158437",
+        "volume": "55",
+        "author": "T Hoefler",
+        "year": "2022",
+        "unstructured": "Hoefler T, Hendel A, Roweth D (2022) The convergence of hyperscale data center and high-performance computing networks. Computer 55(7):29–37. https://doi.org/10.1109/MC.2022.3158437",
+        "journal-title": "Computer"
+      },
+      {
+        "key": "8483_CR9",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Biagioni A, al. (2022) Red-sea: network solution for exascale architectures. In: 2022 25th Euromicro Conference on Digital System Design (DSD), pp 712–719 . https://doi.org/10.1109/DSD57027.2022.00100",
+        "DOI": "10.1109/DSD57027.2022.00100"
+      },
+      {
+        "issue": "5",
+        "key": "8483_CR10",
+        "doi-asserted-by": "publisher",
+        "first-page": "44",
+        "DOI": "10.1145/3292341",
+        "volume": "62",
+        "author": "S Borkar",
+        "year": "2019",
+        "unstructured": "Borkar S, Chien AA (2019) The future of microprocessors. Commun ACM 62(5):44–52. https://doi.org/10.1145/3292341",
+        "journal-title": "Commun ACM"
+      },
+      {
+        "key": "8483_CR11",
+        "unstructured": "Shallue CJ, Lee J, Antognini J, Sohl-Dickstein J, Frostig R, Dahl GE (2018) Measuring the effects of data parallelism on neural network training. arXiv preprint arXiv:1811.03600"
+      },
+      {
+        "key": "8483_CR12",
+        "unstructured": "Shoeybi M, Patwary M, Puri R, LeGresley P, Casper J, Catanzaro B (2019) Megatron-LM: training multi-billion parameter language models using model parallelism. arXiv preprint arXiv:1909.08053"
+      },
+      {
+        "key": "8483_CR13",
+        "unstructured": "Huang Y, Firat O, Lee H, Wu Y, Cheng Y, XuChen M, Ngiam J, Bapna A, Chen D, Le QV, Chen Z (2019) GPipe: easy scaling with micro-batch pipeline parallelism. arXiv preprint arXiv:1811.06965"
+      },
+      {
+        "key": "8483_CR14",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Riley GF, Henderson TR (2010) In: Wehrle K, Güneş M, Gross J (eds) The ns-3 Network Simulator. Springer, Berlin, pp 15–34. https://doi.org/10.1007/978-3-642-12331-3_2",
+        "DOI": "10.1007/978-3-642-12331-3_2"
+      },
+      {
+        "key": "8483_CR15",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Varga A, Hornig R (2008) An overview of the omnet++ simulation environment. In: Proceedings of the 1st International Conference on Simulation Tools and Techniques for Communications, Networks and Systems & Workshops. Simutools’08. ICST (Institute for Computer Sciences, Social-Informatics and Telecommunications Engineering), Brussels, BEL",
+        "DOI": "10.4108/ICST.SIMUTOOLS2008.3027"
+      },
+      {
+        "issue": "10",
+        "key": "8483_CR16",
+        "doi-asserted-by": "publisher",
+        "first-page": "2899",
+        "DOI": "10.1016/j.jpdc.2014.06.008",
+        "volume": "74",
+        "author": "H Casanova",
+        "year": "2014",
+        "unstructured": "Casanova H, Giersch A, Legrand A, Quinson M, Suter F (2014) Versatile, scalable, and accurate simulation of distributed applications and platforms. J Parallel Distrib Comput 74(10):2899–2917. https://doi.org/10.1016/j.jpdc.2014.06.008",
+        "journal-title": "J Parallel Distrib Comput"
+      },
+      {
+        "key": "8483_CR17",
+        "doi-asserted-by": "publisher",
+        "first-page": "37",
+        "DOI": "10.1145/1964218.1964225",
+        "volume": "38",
+        "author": "A Rodrigues",
+        "year": "2011",
+        "unstructured": "Rodrigues A, Hemmert K, Barrett B, Kersey C, Oldfield R, Weston M, Risen R, Cook J, Rosenfeld P, CooperBalls E, Jacob B (2011) The structural simulation toolkit. ACM SIGMETRICS Perform Evaluat Rev 38:37–42. https://doi.org/10.1145/1964218.1964225",
+        "journal-title": "ACM SIGMETRICS Perform Evaluat Rev"
+      },
+      {
+        "key": "8483_CR18",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Won W, Heo T, Rashidi S, Sridharan S, Srinivasan S, Krishna T (2023) Astra-sim2.0: modeling hierarchical networks and disaggregated systems for large-model training at scale. In: 2023 IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS). IEEE, pp 283–294. https://doi.org/10.1109/ispass57527.2023.00035",
+        "DOI": "10.1109/ispass57527.2023.00035"
+      },
+      {
+        "key": "8483_CR19",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Shen S, Bonato T, Hu Z, Jordan P, Chen T, Hoefler T (2025) ATLAHS: An Application-Centric Network Simulator Toolchain for AI, HPC, and Distributed Storage. arXiv: abs/2505.08936",
+        "DOI": "10.1145/3712285.3759838"
+      },
+      {
+        "key": "8483_CR20",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Yébenes P, Escudero-Sahuquillo J, García PJ, Alfaro FJ, Quiles FJ (2016) Providing differentiated services, congestion management, and deadlock freedom in dragonfly networks. In: 2016 2nd IEEE International Workshop on High-Performance Interconnection Networks in the Exascale and Big-Data Era (HiPINEB), pp 33–40 . https://doi.org/10.1109/HIPINEB.2016.11",
+        "DOI": "10.1109/HIPINEB.2016.11"
+      },
+      {
+        "key": "8483_CR21",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Suzuki J, Hayashi Y, Kan M, Miyakawa S, Yoshikawa T (2014) End-to-end adaptive packet aggregation for high-throughput I/O bus network using ethernet. In: 2014 IEEE 22nd Annual Symposium on High-Performance Interconnects, pp 17–24. https://doi.org/10.1109/HOTI.2014.16",
+        "DOI": "10.1109/HOTI.2014.16"
+      },
+      {
+        "key": "8483_CR22",
+        "unstructured": "NVIDIA (2023) Perftest Package [online; Accessed 11 Mar 2024] . https://enterprise-support.nvidia.com/s/article/perftest-package"
+      },
+      {
+        "key": "8483_CR23",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Schieffer G, Shi R, Markidis S, Herten A, Faj J, Peng I (2024) Understanding Data Movement in AMD Multi-GPU Systems with Infinity Fabric. arXiv: abs/2410.00801",
+        "DOI": "10.1109/SCW63240.2024.00079"
+      },
+      {
+        "issue": "2",
+        "key": "8483_CR24",
+        "doi-asserted-by": "publisher",
+        "first-page": "188",
+        "DOI": "10.1109/90.769767",
+        "volume": "7",
+        "author": "N McKeown",
+        "year": "1999",
+        "unstructured": "McKeown N (1999) The ISLIP scheduling algorithm for input-queued switches. IEEE/ACM Trans Netw 7(2):188–201. https://doi.org/10.1109/90.769767",
+        "journal-title": "IEEE/ACM Trans Netw"
+      },
+      {
+        "key": "8483_CR25",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Mahanta HJ, Biswas A, Hussain A (2015) An architecture based routing for heterogeneous fat tree network on chip. In: 2015 International Symposium on Advanced Computing and Communication (ISACC), pp. 341–345 . https://doi.org/10.1109/ISACC.2015.7377366",
+        "DOI": "10.1109/ISACC.2015.7377366"
+      },
+      {
+        "issue": "11",
+        "key": "8483_CR26",
+        "doi-asserted-by": "publisher",
+        "first-page": "1423",
+        "DOI": "10.1016/j.jpdc.2012.01.018",
+        "volume": "72",
+        "author": "E Zahavi",
+        "year": "2012",
+        "unstructured": "Zahavi E (2012) Fat-tree routing and node ordering providing contention free traffic for MPI global collectives. J Parallel Distrib Comput 72(11):1423–1432. https://doi.org/10.1016/j.jpdc.2012.01.018",
+        "journal-title": "J Parallel Distrib Comput"
+      },
+      {
+        "key": "8483_CR27",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Gomez C, Gilabert F, Gomez ME, Lopez P, Duato J (2007) Deterministic versus adaptive routing in fat-trees. In: 2007 IEEE International Parallel and Distributed Processing Symposium, pp 1–8. https://doi.org/10.1109/IPDPS.2007.370482",
+        "DOI": "10.1109/IPDPS.2007.370482"
+      },
+      {
+        "key": "8483_CR28",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Isaev M, Mcdonald N, Dennison L, Vuduc R (2023) Calculon: a methodology and tool for high-level co-design of systems and large language models. In: ACM Conferences. Association for Computing Machinery, New York, NY, USA, pp 1–14. https://doi.org/10.1145/3581784.3607102",
+        "DOI": "10.1145/3581784.3607102"
+      },
+      {
+        "key": "8483_CR29",
+        "unstructured": "Villalobos P, Sevilla J, Besiroglu T, Heim L, Ho A, Hobbhahn M (2022) Machine Learning Model Sizes and the Parameter Gap . arXiv: abs/2207.02852"
+      },
+      {
+        "key": "8483_CR30",
+        "unstructured": "NVIDIA DGX GH200 AI Supercomputer. White paper WP-11400-001_v01, NVIDIA June (2023)"
+      }
+    ],
+    "container-title": ["The Journal of Supercomputing"],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s11227-026-08483-9.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/article/10.1007/s11227-026-08483-9",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s11227-026-08483-9.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [[2026, 5, 1]],
+      "date-time": "2026-05-01T13:33:57Z",
+      "timestamp": 1777642437000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://link.springer.com/10.1007/s11227-026-08483-9"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [[2026, 5, 1]]
+    },
+    "references-count": 30,
+    "journal-issue": {
+      "issue": "7",
+      "published-online": {
+        "date-parts": [[2026, 5]]
+      }
+    },
+    "alternative-id": ["8483"],
+    "URL": "https://doi.org/10.1007/s11227-026-08483-9",
+    "relation": {},
+    "ISSN": ["1573-0484"],
+    "issn-type": [
+      {
+        "value": "1573-0484",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [[2026, 5, 1]]
+    },
+    "assertion": [
+      {
+        "value": "22 October 2025",
+        "order": 1,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "22 March 2026",
+        "order": 2,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "1 May 2026",
+        "order": 3,
+        "name": "first_online",
+        "label": "First Online",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      }
+    ],
+    "article-number": "388"
+  },
+  "10.1007/s11227-025-07972-7": {
+    "indexed": {
+      "date-parts": [[2026, 9, 17]],
+      "date-time": "2026-09-17T19:09:58Z",
+      "timestamp": 1789672198668,
+      "version": "4.0.1"
+    },
+    "reference-count": 48,
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "16",
+    "license": [
+      {
+        "start": {
+          "date-parts": [[2025, 10, 21]],
+          "date-time": "2025-10-21T00:00:00Z",
+          "timestamp": 1761004800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+      },
+      {
+        "start": {
+          "date-parts": [[2025, 10, 21]],
+          "date-time": "2025-10-21T00:00:00Z",
+          "timestamp": 1761004800000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100013209",
+        "name": "Hellenic Foundation for Research and Innovation",
+        "doi-asserted-by": "publisher",
+        "award": ["74967"],
+        "award-info": [
+          {
+            "award-number": ["74967"]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100013209",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100013209",
+        "name": "Hellenic Foundation for Research and Innovation",
+        "doi-asserted-by": "publisher",
+        "award": ["74967"],
+        "award-info": [
+          {
+            "award-number": ["74967"]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100013209",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100019180",
+        "name": "HORIZON EUROPE European Research Council",
+        "doi-asserted-by": "publisher",
+        "award": ["101093062"],
+        "award-info": [
+          {
+            "award-number": ["101093062"]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100019180",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100019180",
+        "name": "HORIZON EUROPE European Research Council",
+        "doi-asserted-by": "publisher",
+        "award": ["101093062"],
+        "award-info": [
+          {
+            "award-number": ["101093062"]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100019180",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100031060",
+        "name": "European High Performance Computing Joint Undertaking",
+        "doi-asserted-by": "publisher",
+        "award": ["955776"],
+        "award-info": [
+          {
+            "award-number": ["955776"]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100031060",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100031060",
+        "name": "European High Performance Computing Joint Undertaking",
+        "doi-asserted-by": "publisher",
+        "award": ["955776"],
+        "award-info": [
+          {
+            "award-number": ["955776"]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100031060",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100031060",
+        "name": "European High Performance Computing Joint Undertaking",
+        "doi-asserted-by": "publisher",
+        "award": ["955776"],
+        "award-info": [
+          {
+            "award-number": ["955776"]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100031060",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100031060",
+        "name": "European High Performance Computing Joint Undertaking",
+        "doi-asserted-by": "publisher",
+        "award": ["955776"],
+        "award-info": [
+          {
+            "award-number": ["955776"]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100031060",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": ["link.springer.com"],
+      "crossmark-restriction": false
+    },
+    "short-container-title": ["J Supercomput"],
+    "DOI": "10.1007/s11227-025-07972-7",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [[2025, 10, 21]],
+      "date-time": "2025-10-21T16:26:54Z",
+      "timestamp": 1761064014000
+    },
+    "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 5,
+    "title": ["Distributed fast and accurate simulation platform for advanced ARM- and RISC-V-based HPC systems"],
+    "prefix": "10.1007",
+    "volume": "81",
+    "author": [
+      {
+        "given": "Nikolaos",
+        "family": "Tampouratzis",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ioannis",
+        "family": "Papaefstathiou",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Gabriel",
+        "family": "Gomez-Lopez",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Miguel",
+        "family": "Sánchez De la Rosa",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jesus",
+        "family": "Escudero-Sahuquillo",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Pedro Javier",
+        "family": "Garcia",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [[2025, 10, 21]]
+    },
+    "reference": [
+      {
+        "issue": "1",
+        "key": "7972_CR1",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1145/3378934",
+        "volume": "17",
+        "author": "N Tampouratzis",
+        "year": "2020",
+        "unstructured": "Tampouratzis N, Papaefstathiou I, Nikitakis A, Brokalakis A, Andrianakis S, Dollas A, Marcon M, Plebani E (2020) A novel, highly integrated simulator for parallel and distributed systems. ACM Trans Arch Code Optim 17(1):1. https://doi.org/10.1145/3378934",
+        "journal-title": "ACM Trans Arch Code Optim"
+      },
+      {
+        "issue": "10",
+        "key": "7972_CR2",
+        "doi-asserted-by": "publisher",
+        "first-page": "2684",
+        "DOI": "10.1109/TPDS.2023.3300081",
+        "volume": "34",
+        "author": "Nikolaos",
+        "year": "2023",
+        "unstructured": "Nikolaos, Tampouratzis P, Mousouliotis I, Papaefstathiou (2023) A Novel Integrated Simulation Framework for Cyber-Physical Systems Modelling. IEEE Trans Parallel Distrib Syst 34(10) 2684-2698. https://doi.org/10.1109/TPDS.2023.3300081",
+        "journal-title": "IEEE Trans Parallel Distrib Syst"
+      },
+      {
+        "key": "7972_CR3",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Brokalakis, A, Tampouratzis, N, Nikitakis, A, Andrianakis, S, Papaefstathiou, I, Dollas, A (2017) An open-source extendable, highly-accurate and security aware cps simulator. In: 2017 13th International Conference on Distributed Computing in Sensor Systems (DCOSS), pp. 81–88. https://doi.org/10.1109/DCOSS.2017.15",
+        "DOI": "10.1109/DCOSS.2017.15"
+      },
+      {
+        "key": "7972_CR4",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Yebenes P, Escudero-Sahuquillo J, Garcia PJ, Quiles FJ (2013) Towards modeling interconnection networks of exascale systems with omnet++. In: 2013 21st Euromicro International Conference on Parallel, Distributed, and Network-Based Processing, pp 203–207. https://doi.org/10.1109/PDP.2013.36",
+        "DOI": "10.1109/PDP.2013.36"
+      },
+      {
+        "key": "7972_CR5",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1007/s11227-022-04692-0",
+        "volume": "79",
+        "author": "FJ Andujar",
+        "year": "2022",
+        "unstructured": "Andujar FJ, Rosa M, Escudero-Sahuquillo J, Sánchez J (2022) Extending the vef traces framework to model data center network workloads. J Supercomput 79:1. https://doi.org/10.1007/s11227-022-04692-0",
+        "journal-title": "J Supercomput"
+      },
+      {
+        "issue": "7",
+        "key": "7972_CR6",
+        "doi-asserted-by": "publisher",
+        "first-page": "2184",
+        "DOI": "10.1109/TC.2015.2479630",
+        "volume": "65",
+        "author": "J Zhai",
+        "year": "2016",
+        "unstructured": "Zhai J, Chen W, Zheng W, Li K (2016) Performance prediction for large-scale parallel applications using representative replay. IEEE Trans Comput 65(7):2184–2198. https://doi.org/10.1109/TC.2015.2479630",
+        "journal-title": "IEEE Trans Comput"
+      },
+      {
+        "key": "7972_CR7",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Hoefler T, Schneider T, Lumsdaine A (2010) Loggopsim: simulating large-scale applications in the loggops model. In: Proceedings of the 19th ACM International Symposium on High Performance Distributed Computing. HPDC ’10, Association for Computing Machinery, New York, NY, USA, pp 597–604. https://doi.org/10.1145/1851476.1851564",
+        "DOI": "10.1145/1851476.1851564"
+      },
+      {
+        "key": "7972_CR8",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Barnwal RP, Ghosh N, Ghosh SK, Das SK (2018) Ps-sim: a framework for scalable simulation of participatory sensing data. In: 2018 IEEE International Conference on Smart Computing (SMARTCOMP), pp 195–202. https://doi.org/10.1109/SMARTCOMP.2018.00091",
+        "DOI": "10.1109/SMARTCOMP.2018.00091"
+      },
+      {
+        "key": "7972_CR9",
+        "doi-asserted-by": "publisher",
+        "first-page": "738",
+        "DOI": "10.3724/SP.J.1016.2013.00738",
+        "volume": "36",
+        "author": "Y Liu",
+        "year": "2014",
+        "unstructured": "Liu Y, Zhi Y-Z, Zhang X, Li H, Jiao L, Zhang P, Su Y-M, Ni Z-H, Qian D-P (2014) Simhpc: an execution-driven simulator for high-performance computers. Chin J Comput 36:738–746. https://doi.org/10.3724/SP.J.1016.2013.00738",
+        "journal-title": "Chin J Comput"
+      },
+      {
+        "issue": "4",
+        "key": "7972_CR10",
+        "doi-asserted-by": "publisher",
+        "first-page": "37",
+        "DOI": "10.1145/1964218.1964225",
+        "volume": "38",
+        "author": "AF Rodrigues",
+        "year": "2011",
+        "unstructured": "Rodrigues AF, Hemmert KS, Barrett BW, Kersey C, Oldfield R, Weston M, Risen R, Cook J, Rosenfeld P, Cooper-Balis E, Jacob B (2011) The structural simulation toolkit. ACM SIGMETRICS Perform Eval Rev 38(4):37–42. https://doi.org/10.1145/1964218.1964225",
+        "journal-title": "ACM SIGMETRICS Perform Eval Rev"
+      },
+      {
+        "key": "7972_CR11",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Hsieh M, Pedretti K, Meng J, Coskun A, Levenhagen M, Rodrigues A (2012) SST + gem5 = a scalable simulation infrastructure for high performance computing, pp 196–201. https://doi.org/10.4108/icst.simutools.2012.247745",
+        "DOI": "10.4108/icst.simutools.2012.247745"
+      },
+      {
+        "key": "7972_CR12",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Mohammad A, Darbaz U, Dozsa G, Diestelhorst S, Kim D, Kim NS (2017) dist-gem5: distributed simulation of computer clusters. In: 2017 IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS), pp 153–162. https://doi.org/10.1109/ISPASS.2017.7975287",
+        "DOI": "10.1109/ISPASS.2017.7975287"
+      },
+      {
+        "key": "7972_CR13",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Minkenberg C, Denzel W, Rodriguez G, Birke R (2012) In: Bangsow S (ed), End-to-End modeling and simulation of high- performance computing systems, Springer, Berlin, pp 201–240. https://doi.org/10.1007/978-3-642-28777-0_11",
+        "DOI": "10.1007/978-3-642-28777-0_11"
+      },
+      {
+        "key": "7972_CR14",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Hurst W, Ramaswamy S, Lenin R, Hoffman D (2010) Development of generalized HPC simulator. In: Janowski T, Mohanty H (eds), Distributed computing and internet technology, Springer, Berlin, pp 176–179. https://doi.org/10.1007/978-3-642-11659-9_18",
+        "DOI": "10.1007/978-3-642-11659-9_18"
+      },
+      {
+        "key": "7972_CR15",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Carlson TE, Heirman W, Eeckhout L (2011) Sniper: exploring the level of abstraction for scalable and accurate parallel multi-core simulation. In: SC ’11: Proceedings of 2011 International Conference for High Performance Computing, Networking, Storage and Analysis, pp 1–12.https://doi.org/10.1145/2063384.2063454",
+        "DOI": "10.1145/2063384.2063454"
+      },
+      {
+        "key": "7972_CR16",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Zaourar L, Benazouz M, Mouhagir A, Jebali F (2021) Sassolas: multilevel simulation-based co-design of next generation HPC microprocessors. In: 2021 International workshop on performance modeling, benchmarking and simulation of high performance computer systems (PMBS), pp 18–29. https://doi.org/10.1109/PMBS54543.2021.00008",
+        "DOI": "10.1109/PMBS54543.2021.00008"
+      },
+      {
+        "key": "7972_CR17",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Perez B, Fell A, Davis JD (2021) Coyote: an open source simulation tool to enable risc- v in hpc. In: 2021 Design, Automation and Test in Europe Conference and Exhibition (DATE), pp 130–135. https://doi.org/10.23919/DATE51398.2021.9474080",
+        "DOI": "10.23919/DATE51398.2021.9474080"
+      },
+      {
+        "key": "7972_CR18",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1007/s42514-023-00173-9",
+        "volume": "5",
+        "author": "F Lin",
+        "year": "2023",
+        "unstructured": "Lin F, Liu Y, Wang X, Gai X (2023) Leveraging simulation of high performance computing systems with node simulation using architecture simulator. CCF Trans High Perform Comput 5:1. https://doi.org/10.1007/s42514-023-00173-9",
+        "journal-title": "CCF Trans High Perform Comput"
+      },
+      {
+        "key": "7972_CR19",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Riley GF, Henderson TR (2010) In: Wehrle K, Güneş M, Gross J (eds), The ns-3 network simulator, Springer, Berlin, pp 15–34. https://doi.org/10.1007/978-3-642-12331-3_2",
+        "DOI": "10.1007/978-3-642-12331-3_2"
+      },
+      {
+        "key": "7972_CR20",
+        "doi-asserted-by": "publisher",
+        "first-page": "140",
+        "DOI": "10.1016/j.jpdc.2019.03.013",
+        "volume": "130",
+        "author": "J Navaridas",
+        "year": "2019",
+        "unstructured": "Navaridas J, Pascual JA, Erickson A, Stewart IA, Luján M (2019) INRFlow: an interconnection networks research flow-level simulation framework. J Parallel Distrib Comput 130:140–152. https://doi.org/10.1016/j.jpdc.2019.03.013",
+        "journal-title": "J Parallel Distrib Comput"
+      },
+      {
+        "key": "7972_CR21",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Quinson M (2009) Simgrid: a generic framework for large-scale distributed experiments. In: 2009 IEEE Ninth International Conference on Peer-to-Peer Computing, pp 95–96. https://doi.org/10.1109/P2P.2009.5284500",
+        "DOI": "10.1109/P2P.2009.5284500"
+      },
+      {
+        "key": "7972_CR22",
+        "unstructured": "FOGsim by fuentesp. https://fuentesp.github.io/fogsim/. Accessed on 27 May 2024"
+      },
+      {
+        "key": "7972_CR23",
+        "unstructured": "InfiniBand Trade Association.: InfiniBandTM Architecture Specification Volume 1 - Release 1.3 (2015). https://www.infinibandta.org/ibta-specification/"
+      },
+      {
+        "key": "7972_CR24",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Derradji S, Palfer-Sollier T, Panziera J-P, Poudes A, Atos FW (2015) The BXI interconnect architecture. In: 2015 IEEE 23rd Annual Symposium on High-Performance Interconnects (HOTI), pp 18–25. https://doi.org/10.1109/HOTI.2015.15",
+        "DOI": "10.1109/HOTI.2015.15"
+      },
+      {
+        "key": "7972_CR25",
+        "unstructured": "Structural Simulation Toolkit (SST) DUMPI trace library. Accessed 26 Aug 2025. https://github.com/sstsimulator/sst-dumpi"
+      },
+      {
+        "key": "7972_CR26",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Knüpfer A, Brunst H, Doleschal J, Jurenz M, Lieber M, Mickler H, Müller MS, Nagel WE (2008) The Yampir performance analysis tool-set. In: Resch M, Keller R, Himmler V, Krammer B, Schulz A (eds) Tools for high performance computing, Springer, Berlin, pp 139–155. https://doi.org/10.1007/978-3-540-68564-7_9",
+        "DOI": "10.1007/978-3-540-68564-7_9"
+      },
+      {
+        "key": "7972_CR27",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Knüpfer A, Rössel C, Mey Da, Biersdorff S, Diethelm K, Eschweiler D, Geimer M, Gerndt M, Lorenz D, Malony A, Nagel WE, Oleynik Y, Philippen P, Saviankou P, Schmidl D, Shende S, Tschüter R, Wagner M, Wesarg B, Wolf F (2012) Score-P: a joint performance measurement run-time infrastructure for periscope,Scalasca, TAU, and Vampir. In: Brunst H, Müller MS, Nagel WE, Resch MM (eds) Tools for high performance computing 2011, Springer, Berlin, pp 79–91",
+        "DOI": "10.1007/978-3-642-31476-6_7"
+      },
+      {
+        "key": "7972_CR28",
+        "doi-asserted-by": "publisher",
+        "first-page": "107472-13",
+        "DOI": "10.1016/j.future.2024.07.050",
+        "volume": "162",
+        "author": "BJN Wylie",
+        "year": "2025",
+        "unstructured": "Wylie BJN, Giménez J, Feld C, Geimer M, Llort G, Mendez S, Mercadal E, Visser A, Garcéa-Gasulla M (2025) 15+ Years of joint parallel application performance analysis/tools training with Scalasca/Score-P and Paraver/Extrae toolsets. Future Gener Comput Syst 162:107472–13. https://doi.org/10.1016/j.future.2024.07.050",
+        "journal-title": "Future Gener Comput Syst"
+      },
+      {
+        "key": "7972_CR29",
+        "unstructured": "The GEM5 Simulator. Accessed 26 Aug 2025. http://gem5.org/"
+      },
+      {
+        "key": "7972_CR30",
+        "unstructured": "OMNeT++ Discrete Event Simulator. Accessed 26 Aug 2025. https://omnetpp.org/"
+      },
+      {
+        "key": "7972_CR31",
+        "unstructured": "IEEE 1516-010-Standard for modeling and simulation high level architecture-framework and rules. Accessed 26 Aug 2025. https://standards.ieee.org/findstds/standard/1516-2010.html"
+      },
+      {
+        "key": "7972_CR32",
+        "unstructured": "CERTI Project. Accessed 26 Aug 2025. http://savannah.nongnu.org/projects/certi"
+      },
+      {
+        "key": "7972_CR33",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Andújar FJ (2015) VEF traces: a framework for modelling MPI traffic in interconnection network simulators. In: The 1st IEEE International Workshop on High-Performance Interconnection Networks in the Exascale and Big-Data Era, Chicago, IL, USA, pp 841–848. https://doi.org/10.1109/CLUSTER.2015.141",
+        "DOI": "10.1109/CLUSTER.2015.141"
+      },
+      {
+        "issue": "12",
+        "key": "7972_CR34",
+        "doi-asserted-by": "publisher",
+        "first-page": "1347",
+        "DOI": "10.1109/TCOM.1987.1096719",
+        "volume": "35",
+        "author": "M Karol",
+        "year": "1987",
+        "unstructured": "Karol M, Hluchyj M, Morgan S (1987) Input versus output queueing on a space-division packet switch. IEEE Trans Commun 35(12):1347–1356. https://doi.org/10.1109/TCOM.1987.1096719",
+        "journal-title": "IEEE Trans Commun"
+      },
+      {
+        "key": "7972_CR35",
+        "unstructured": "802.1Qbb: IEEE standard for local and metropolitan area networks—virtual bridged local area networks—amendment: priority-based flow control (2011). https://1.ieee802.org/dcb/802-1qbb/ Accessed 2018-09-23"
+      },
+      {
+        "key": "7972_CR36",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Awan A, Venkatesan R (2004) Design and implementation of enhanced crossbar CIOQ switch architecture. In: Canadian Conference on Electrical and Computer Engineering 2004 (IEEE Cat. No.04CH37513), vol 2, pp 1045–10482. https://doi.org/10.1109/CCECE.2004.1345297",
+        "DOI": "10.1109/CCECE.2004.1345297"
+      },
+      {
+        "key": "7972_CR37",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Gran EG, Eimot M, Reinemo S-A, Skeie T, Lysne O, Huse LP, Shainer G (2010) First experiences with congestion control in infiniband hardware. In: 2010 IEEE International Symposium on Parallel and Distributed Processing (IPDPS), pp 1–12. https://doi.org/10.1109/IPDPS.2010.5470419",
+        "DOI": "10.1109/IPDPS.2010.5470419"
+      },
+      {
+        "key": "7972_CR38",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Zhu Y, Eran H, Firestone D, Guo C, Lipshteyn M, Liron Y, Padhye J, Raindel S, Yahia MH, Zhang M (2015) Congestion control for large-scale RDMA deployments. In: Proceedings of the 2015 ACM Conference on Special Interest Group on Data Communication. SIGCOMM ’15, Association for Computing Machinery, New York, NY, USA, pp 523–536. https://doi.org/10.1145/2785956.2787484",
+        "DOI": "10.1145/2785956.2787484"
+      },
+      {
+        "key": "7972_CR39",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Giannopoulos D, Chrysos N, Mageiropoulos E, Vardas G, Tzanakis L, Katevenis M (2018) Accurate congestion control for RDMA transfers. In: 2018 Twelfth IEEE/ACM International Symposium on Networks-on-Chip (NOCS), pp 1–8. https://doi.org/10.1109/NOCS.2018.8512155",
+        "DOI": "10.1109/NOCS.2018.8512155"
+      },
+      {
+        "issue": "4",
+        "key": "7972_CR40",
+        "doi-asserted-by": "publisher",
+        "first-page": "565",
+        "DOI": "10.1109/TMSCS.2018.2879601",
+        "volume": "4",
+        "author": "N Tampouratzis",
+        "year": "2018",
+        "unstructured": "Tampouratzis N, Papaefstathiou I (2018) A novel, simulator for heterogeneous cloud systems that incorporate custom hardware accelerators. IEEE Trans Multiscale Comput Syst 4(4):565–576. https://doi.org/10.1109/TMSCS.2018.2879601",
+        "journal-title": "IEEE Trans Multiscale Comput Syst"
+      },
+      {
+        "key": "7972_CR41",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Georgopoulos K, Chrysos G, Malakonakis P, Nikitakis A, Tampouratzis N, Dollas A, Pnevmatikatos D, Papaefstathiou Y (2016) An evaluation of VIVADO HLS for efficient system design. In: 2016 International Symposium ELMAR, pp 195–199. https://doi.org/10.1109/ELMAR.2016.7731785",
+        "DOI": "10.1109/ELMAR.2016.7731785"
+      },
+      {
+        "key": "7972_CR42",
+        "unstructured": "RISC-V Open Source Supervisor Binary Interface (OpenSBI) (2025) GitHub. Accessed 26 Aug 2025. https://github.com/riscv-software-src/opensbi"
+      },
+      {
+        "key": "7972_CR43",
+        "unstructured": "Banchelli F, Garcia M, Josep M, Mantovani F et al (2019) MB3 D6.9—performance analysis of applications and mini-applications and benchmarking on the project test platforms. Technical report. Accessed 5 Sep 2024"
+      },
+      {
+        "key": "7972_CR44",
+        "unstructured": "HiFive Unmatched Board. Accessed 26 Aug 2025. https://www.sifive.com/boards/hifive-unmatched"
+      },
+      {
+        "key": "7972_CR45",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1016/j.micpro.2024.105102",
+        "volume": "105102",
+        "author": "ME Gomez",
+        "year": "2024",
+        "unstructured": "Gomez ME, Sahuquillo J, Biagioni A, Chrysos N et al (2024) Red-sea project: towards a new-generation European interconnect. Microprocess Microsyst 105102:1. https://doi.org/10.1016/j.micpro.2024.105102",
+        "journal-title": "Microprocess Microsyst"
+      },
+      {
+        "key": "7972_CR46",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Biagioni A (2022) RED-SEA: network solution for exascale architectures. In: 25th Euromicro Conference on Digital System Design, DSD 2022, Maspalomas, Spain, August 31–September 2, 2022, IEEE, pp 712–719. https://doi.org/10.1109/DSD57027.2022.00100",
+        "DOI": "10.1109/DSD57027.2022.00100"
+      },
+      {
+        "issue": "2",
+        "key": "7972_CR47",
+        "doi-asserted-by": "publisher",
+        "first-page": "40",
+        "DOI": "10.1109/65.372658",
+        "volume": "9",
+        "author": "NT Kung",
+        "year": "1995",
+        "unstructured": "Kung NT, Morris R (1995) Credit-based flow control for atm networks. IEEE Netw 9(2):40–48. https://doi.org/10.1109/65.372658",
+        "journal-title": "IEEE Netw"
+      },
+      {
+        "key": "7972_CR48",
+        "unstructured": "BXIv2: high performance interconnect for extreme HPC workloads. https://redsea-project.eu/peek-bxi/. Accessed 26 Aug 2025"
+      }
+    ],
+    "container-title": ["The Journal of Supercomputing"],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s11227-025-07972-7.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/article/10.1007/s11227-025-07972-7/fulltext.html",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s11227-025-07972-7.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [[2025, 10, 21]],
+      "date-time": "2025-10-21T16:26:58Z",
+      "timestamp": 1761064018000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://link.springer.com/10.1007/s11227-025-07972-7"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [[2025, 10, 21]]
+    },
+    "references-count": 48,
+    "journal-issue": {
+      "issue": "16",
+      "published-online": {
+        "date-parts": [[2025, 11]]
+      }
+    },
+    "alternative-id": ["7972"],
+    "URL": "https://doi.org/10.1007/s11227-025-07972-7",
+    "relation": {},
+    "ISSN": ["1573-0484"],
+    "issn-type": [
+      {
+        "value": "1573-0484",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [[2025, 10, 21]]
+    },
+    "assertion": [
+      {
+        "value": "23 September 2024",
+        "order": 1,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "9 October 2025",
+        "order": 2,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "21 October 2025",
+        "order": 3,
+        "name": "first_online",
+        "label": "First Online",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "order": 1,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Declarations"
+        }
+      },
+      {
+        "value": "The authors declare no conflict of interest.",
+        "order": 2,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Conflict of interest"
+        }
+      }
+    ],
+    "article-number": "1484"
+  },
+  "10.1109/DSD57027.2022.00100": {
+    "indexed": {
+      "date-parts": [[2026, 6, 27]],
+      "date-time": "2026-06-27T19:46:33Z",
+      "timestamp": 1782589593254,
+      "version": "3.54.5"
+    },
+    "reference-count": 16,
+    "publisher": "IEEE",
+    "license": [
+      {
+        "start": {
+          "date-parts": [[2022, 8, 1]],
+          "date-time": "2022-08-01T00:00:00Z",
+          "timestamp": 1659312000000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-029"
+      },
+      {
+        "start": {
+          "date-parts": [[2022, 8, 1]],
+          "date-time": "2022-08-01T00:00:00Z",
+          "timestamp": 1659312000000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-037"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+      "date-parts": [[2022, 8]]
+    },
+    "DOI": "10.1109/dsd57027.2022.00100",
+    "type": "proceedings-article",
+    "created": {
+      "date-parts": [[2023, 1, 4]],
+      "date-time": "2023-01-04T18:38:00Z",
+      "timestamp": 1672857480000
+    },
+    "page": "712-719",
+    "source": "Crossref",
+    "is-referenced-by-count": 7,
+    "title": ["RED-SEA: Network Solution for Exascale Architectures"],
+    "prefix": "10.1109",
+    "author": [
+      {
+        "given": "Andrea",
+        "family": "Biagioni",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "INFN,Sezione di Roma,Italy"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Paolo",
+        "family": "Cretaro",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "INFN,Sezione di Roma,Italy"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ottorino",
+        "family": "Frezza",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "INFN,Sezione di Roma,Italy"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Francesca Lo",
+        "family": "Cicero",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "INFN,Sezione di Roma,Italy"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Alessandro",
+        "family": "Lonardo",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "INFN,Sezione di Roma,Italy"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Michele",
+        "family": "Martinelli",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "INFN,Sezione di Roma,Italy"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Pier Stanislao",
+        "family": "Paolucci",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "INFN,Sezione di Roma,Italy"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Elena",
+        "family": "Pastorelli",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "INFN,Sezione di Roma,Italy"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Francesco",
+        "family": "Simula",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "INFN,Sezione di Roma,Italy"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Matteo",
+        "family": "Turisini",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "INFN,Sezione di Roma,Italy"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Piero",
+        "family": "Vicini",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "INFN,Sezione di Roma,Italy"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Roberto",
+        "family": "Ammendola",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "INFN,Sezione di Roma Tor Vergata,Italy"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Pascale",
+        "family": "Bernier-Bruna",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Atos,France"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Claire",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Atos,France"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Said",
+        "family": "Derradji",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Atos,France"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Stephane",
+        "family": "Guez",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Atos,France"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Pierre-Axel",
+        "family": "Lagadec",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Atos,France"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Gregoire",
+        "family": "Pichon",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Atos,France"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Etienne",
+        "family": "Walter",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Atos,France"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Gaetan",
+        "family": "De Gassowski",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "CEA,France"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Matthieu",
+        "family": "Hautreaux",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "CEA,France"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Stephane",
+        "family": "Mathieu",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "CEA,France"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Gilles",
+        "family": "Moreau",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "CEA,France"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Marc",
+        "family": "Perache",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "CEA,France"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Hugo",
+        "family": "Taboada",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "CEA,France"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Torsten",
+        "family": "Hoefler",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "ETH Z&#x00FC;rich,Switzerland"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Timo",
+        "family": "Schneider",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "ETH Z&#x00FC;rich,Switzerland"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Matteo",
+        "family": "Barnaba",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Exact Lab,Italy"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Giuseppe Piero",
+        "family": "Brandino",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Exact Lab,Italy"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Francesco",
+        "family": "De Giorgi",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Exact Lab,Italy"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Matteo",
+        "family": "Poggi",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Exact Lab,Italy"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Iakovos",
+        "family": "Mavroidis",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Exapsys,Greece"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Yannis",
+        "family": "Papaefstathiou",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Exapsys,Greece"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Nikolaos",
+        "family": "Tampouratzis",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Exapsys,Greece"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Benjamin",
+        "family": "Kalisch",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Extoll,Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ulrich",
+        "family": "Krackhardt",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Extoll,Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Mondrian",
+        "family": "Nuessle",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Extoll,Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Pantelis",
+        "family": "Xirouchakis",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Forth,Greece"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Vangelis",
+        "family": "Mageiropoulos",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Forth,Greece"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Michalis",
+        "family": "Gianioudis",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Forth,Greece"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Harisis",
+        "family": "Loukas",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Forth,Greece"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Aggelos",
+        "family": "Ioannou",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Forth,Greece"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Nikos",
+        "family": "Kallimanis",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Forth,Greece"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Nikos",
+        "family": "Chrysos",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Forth,Greece"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Manolis",
+        "family": "Katevenis",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Forth,Greece"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Wolfang",
+        "family": "Frings",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Julich Research Centre,Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Dominik",
+        "family": "Gottwald",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Julich Research Centre,Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Felime",
+        "family": "Guimaraes",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Julich Research Centre,Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Max",
+        "family": "Holicki",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Julich Research Centre,Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Volker",
+        "family": "Marx",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Julich Research Centre,Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Yannik",
+        "family": "Muller",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Julich Research Centre,Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Carsten",
+        "family": "Clauss",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "ParTec,Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Hugo",
+        "family": "Falter",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "ParTec,Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Xu",
+        "family": "Huang",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "ParTec,Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jennifer Lopez",
+        "family": "Barillao",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "ParTec,Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Thomas",
+        "family": "Moschny",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "ParTec,Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Simon",
+        "family": "Pickartz",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "ParTec,Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Francisco J.",
+        "family": "Alfaro",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of Castilla-La Mancha,Spain"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jesus",
+        "family": "Escudero-Sahuquillo",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of Castilla-La Mancha,Spain"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Pedro Javier",
+        "family": "Garcia",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of Castilla-La Mancha,Spain"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Francisco J.",
+        "family": "Quiles",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of Castilla-La Mancha,Spain"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jose L.",
+        "family": "Sanchez",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of Castilla-La Mancha,Spain"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Adrian",
+        "family": "Castello",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Universidad Politecnica de Valencia,Spain"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jose",
+        "family": "Duro",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Universidad Politecnica de Valencia,Spain"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Maria Engracia",
+        "family": "Gomez",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Universidad Politecnica de Valencia,Spain"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Enrique",
+        "family": "Quintana",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Universidad Politecnica de Valencia,Spain"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Julio",
+        "family": "Sahuquillo",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Universidad Politecnica de Valencia,Spain"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Eugenio",
+        "family": "Stabile",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Universidad Politecnica de Valencia,Spain"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "263",
+    "reference": [
+      {
+        "key": "ref1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/SC41405.2020.00039"
+      },
+      {
+        "key": "ref2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/HOTI.2015.22"
+      },
+      {
+        "key": "ref3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/HOTI.2015.15"
+      },
+      {
+        "key": "ref4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/IPDPSW.2013.128"
+      },
+      {
+        "key": "ref5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/SAMOS.2015.7363684"
+      },
+      {
+        "key": "ref6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.micpro.2018.05.009"
+      },
+      {
+        "key": "ref7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1051/epjconf/202024509004"
+      },
+      {
+        "key": "ref8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1088/1742-6596/396/4/042059"
+      },
+      {
+        "key": "ref9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.23919/DATE51398.2021.9474093"
+      },
+      {
+        "key": "ref10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/cpe.3562"
+      },
+      {
+        "key": "ref11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2172/1473756"
+      },
+      {
+        "key": "ref12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/CCGrid.2015.79"
+      },
+      {
+        "key": "ref13",
+        "first-page": "35",
+        "volume-title": "OMNeT ++",
+        "author": "Varga",
+        "year": "2010"
+      },
+      {
+        "key": "ref14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-3-642-12331-3_2"
+      },
+      {
+        "key": "ref15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/2024716.2024718"
+      },
+      {
+        "key": "ref16",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3378934"
+      }
+    ],
+    "event": {
+      "name": "2022 25th Euromicro Conference on Digital System Design (DSD)",
+      "location": "Maspalomas, Spain",
+      "start": {
+        "date-parts": [[2022, 8, 31]]
+      },
+      "end": {
+        "date-parts": [[2022, 9, 2]]
+      }
+    },
+    "container-title": ["2022 25th Euromicro Conference on Digital System Design (DSD)"],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "http://xplorestaging.ieee.org/ielx7/9996588/9996595/09996916.pdf?arnumber=9996916",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [[2024, 3, 2]],
+      "date-time": "2024-03-02T11:56:31Z",
+      "timestamp": 1709380591000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://ieeexplore.ieee.org/document/9996916/"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [[2022, 8]]
+    },
+    "references-count": 16,
+    "URL": "https://doi.org/10.1109/dsd57027.2022.00100",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [[2022, 8]]
+    }
+  },
+  "10.1002/cpe.4292": {
+    "indexed": {
+      "date-parts": [[2025, 7, 30]],
+      "date-time": "2025-07-30T09:44:49Z",
+      "timestamp": 1753868689367,
+      "version": "3.41.2"
+    },
+    "reference-count": 1,
+    "publisher": "Wiley",
+    "issue": "21",
+    "license": [
+      {
+        "start": {
+          "date-parts": [[2017, 8, 21]],
+          "date-time": "2017-08-21T00:00:00Z",
+          "timestamp": 1503273600000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": ["Concurrency and Computation"],
+    "published-print": {
+      "date-parts": [[2017, 11, 10]]
+    },
+    "DOI": "10.1002/cpe.4292",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [[2017, 8, 22]],
+      "date-time": "2017-08-22T00:52:54Z",
+      "timestamp": 1503363174000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": ["Providing differentiated services, congestion management, and deadlock freedom in dragonfly networks with adaptive routing"],
+    "prefix": "10.1002",
+    "volume": "29",
+    "author": [
+      {
+        "given": "Pedro",
+        "family": "Yébenes",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Jesus",
+        "family": "Escudero‐Sahuquillo",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Pedro J.",
+        "family": "García",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Francisco‐J.",
+        "family": "Alfaro‐Cortés",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Francisco J.",
+        "family": "Quiles",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "311",
+    "published-online": {
+      "date-parts": [[2017, 8, 21]]
+    },
+    "reference": [
+      {
+        "key": "e_1_2_2_2_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/cpe.4066"
+      }
+    ],
+    "container-title": ["Concurrency and Computation: Practice and Experience"],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Fcpe.4292",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/cpe.4292",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [[2023, 9, 16]],
+      "date-time": "2023-09-16T00:52:55Z",
+      "timestamp": 1694825575000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://onlinelibrary.wiley.com/doi/10.1002/cpe.4292"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [[2017, 8, 21]]
+    },
+    "references-count": 1,
+    "journal-issue": {
+      "issue": "21",
+      "published-print": {
+        "date-parts": [[2017, 11, 10]]
+      }
+    },
+    "alternative-id": ["10.1002/cpe.4292"],
+    "URL": "https://doi.org/10.1002/cpe.4292",
+    "archive": ["Portico"],
+    "relation": {},
+    "ISSN": ["1532-0626", "1532-0634"],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "1532-0626"
+      },
+      {
+        "type": "electronic",
+        "value": "1532-0634"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [[2017, 8, 21]]
+    },
+    "article-number": "e4292"
+  },
+  "10.1002/cpe.5041": {
+    "indexed": {
+      "date-parts": [[2025, 7, 30]],
+      "date-time": "2025-07-30T09:44:35Z",
+      "timestamp": 1753868675725,
+      "version": "3.41.2"
+    },
+    "reference-count": 5,
+    "publisher": "Wiley",
+    "issue": "2",
+    "license": [
+      {
+        "start": {
+          "date-parts": [[2018, 10, 31]],
+          "date-time": "2018-10-31T00:00:00Z",
+          "timestamp": 1540944000000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+      }
+    ],
+    "content-domain": {
+      "domain": ["onlinelibrary.wiley.com"],
+      "crossmark-restriction": true
+    },
+    "short-container-title": ["Concurrency and Computation"],
+    "published-print": {
+      "date-parts": [[2019, 1, 25]]
+    },
+    "DOI": "10.1002/cpe.5041",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [[2018, 10, 31]],
+      "date-time": "2018-10-31T11:34:47Z",
+      "timestamp": 1540985687000
+    },
+    "update-policy": "https://doi.org/10.1002/crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": ["Trends in High‐Performance Interconnection Networks in the Exascale and Big‐Data Era (HiPINEB 2017)"],
+    "prefix": "10.1002",
+    "volume": "31",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-0835-8624",
+        "authenticated-orcid": false,
+        "given": "Jesús",
+        "family": "Escudero Sahuquillo",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Escuela Superior Ingeniería Informática (ESII) University of Castilla‐La Mancha, Campus Universitario  Albacete s/n. 02071 Spain"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-7350-6067",
+        "authenticated-orcid": false,
+        "given": "Pedro Javier",
+        "family": "Garcia",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Escuela Superior Ingeniería Informática (ESII) University of Castilla‐La Mancha, Campus Universitario  Albacete s/n. 02071 Spain"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "311",
+    "published-online": {
+      "date-parts": [[2018, 10, 31]]
+    },
+    "reference": [
+      {
+        "key": "e_1_2_2_2_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/cpe.4439"
+      },
+      {
+        "key": "e_1_2_2_3_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/cpe.4440"
+      },
+      {
+        "key": "e_1_2_2_4_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/cpe.4361"
+      },
+      {
+        "key": "e_1_2_2_5_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/cpe.4443"
+      },
+      {
+        "key": "e_1_2_2_6_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/cpe.4441"
+      }
+    ],
+    "container-title": ["Concurrency and Computation: Practice and Experience"],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Fcpe.5041",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/cpe.5041",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/full-xml/10.1002/cpe.5041",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/cpe.5041",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [[2023, 9, 11]],
+      "date-time": "2023-09-11T17:59:24Z",
+      "timestamp": 1694455164000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://onlinelibrary.wiley.com/doi/10.1002/cpe.5041"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [[2018, 10, 31]]
+    },
+    "references-count": 5,
+    "journal-issue": {
+      "issue": "2",
+      "published-print": {
+        "date-parts": [[2019, 1, 25]]
+      }
+    },
+    "alternative-id": ["10.1002/cpe.5041"],
+    "URL": "https://doi.org/10.1002/cpe.5041",
+    "archive": ["Portico"],
+    "relation": {},
+    "ISSN": ["1532-0626", "1532-0634"],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "1532-0626"
+      },
+      {
+        "type": "electronic",
+        "value": "1532-0634"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [[2018, 10, 31]]
+    },
+    "assertion": [
+      {
+        "value": "2018-09-08",
+        "order": 0,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2018-09-13",
+        "order": 1,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2018-10-31",
+        "order": 2,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ],
+    "article-number": "e5041"
+  },
+  "10.1002/cpe.4176": {
+    "indexed": {
+      "date-parts": [[2025, 7, 30]],
+      "date-time": "2025-07-30T09:44:37Z",
+      "timestamp": 1753868677399,
+      "version": "3.41.2"
+    },
+    "reference-count": 5,
+    "publisher": "Wiley",
+    "issue": "13",
+    "license": [
+      {
+        "start": {
+          "date-parts": [[2017, 5, 23]],
+          "date-time": "2017-05-23T00:00:00Z",
+          "timestamp": 1495497600000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": ["Concurrency and Computation"],
+    "published-print": {
+      "date-parts": [[2017, 7, 10]]
+    },
+    "DOI": "10.1002/cpe.4176",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [[2017, 5, 25]],
+      "date-time": "2017-05-25T15:58:43Z",
+      "timestamp": 1495727923000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": ["Special issue on trends in high‐performance interconnection networks in the exascale and big‐data era"],
+    "prefix": "10.1002",
+    "volume": "29",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-0835-8624",
+        "authenticated-orcid": false,
+        "given": "Jesús",
+        "family": "Escudero‐Sahuquillo",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "University of Castilla‐La Mancha Ciudad Real Spain"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Pedro Javier",
+        "family": "Garcia",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of Castilla‐La Mancha Ciudad Real Spain"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "311",
+    "published-online": {
+      "date-parts": [[2017, 5, 23]]
+    },
+    "reference": [
+      {
+        "key": "e_1_2_2_2_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/cpe.4074"
+      },
+      {
+        "key": "e_1_2_2_3_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/cpe.4065"
+      },
+      {
+        "key": "e_1_2_2_4_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/cpe.4072"
+      },
+      {
+        "key": "e_1_2_2_5_1",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1002/cpe.4292",
+        "article-title": "Providing differentiated services, congestion management, and deadlock freedom in dragonfly networks with adaptive routing",
+        "volume": "29",
+        "author": "Yébenes P",
+        "year": "2017",
+        "journal-title": "Concurrency Computat: Pract Exper"
+      },
+      {
+        "key": "e_1_2_2_6_1",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1002/cpe.4063",
+        "article-title": "Efficient QoS-aware packet chunking scheme for M2M cloud services",
+        "volume": "29",
+        "author": "Sawabe A",
+        "year": "2017",
+        "journal-title": "Concurrency Computat: Pract Exper"
+      }
+    ],
+    "container-title": ["Concurrency and Computation: Practice and Experience"],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Fcpe.4176",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/cpe.4176",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [[2024, 6, 24]],
+      "date-time": "2024-06-24T10:18:02Z",
+      "timestamp": 1719224282000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://onlinelibrary.wiley.com/doi/10.1002/cpe.4176"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [[2017, 5, 23]]
+    },
+    "references-count": 5,
+    "journal-issue": {
+      "issue": "13",
+      "published-print": {
+        "date-parts": [[2017, 7, 10]]
+      }
+    },
+    "alternative-id": ["10.1002/cpe.4176"],
+    "URL": "https://doi.org/10.1002/cpe.4176",
+    "archive": ["Portico"],
+    "relation": {},
+    "ISSN": ["1532-0626", "1532-0634"],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "1532-0626"
+      },
+      {
+        "type": "electronic",
+        "value": "1532-0634"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [[2017, 5, 23]]
+    },
+    "article-number": "e4176"
+  },
+  "10.1007/s11227-016-1893-6": {
+    "indexed": {
+      "date-parts": [[2025, 2, 21]],
+      "date-time": "2025-02-21T07:39:57Z",
+      "timestamp": 1740123597156,
+      "version": "3.37.3"
+    },
+    "reference-count": 0,
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "12",
+    "license": [
+      {
+        "start": {
+          "date-parts": [[2016, 11, 9]],
+          "date-time": "2016-11-09T00:00:00Z",
+          "timestamp": 1478649600000
+        },
+        "content-version": "unspecified",
+        "delay-in-days": 0,
+        "URL": "http://www.springer.com/tdm"
+      }
+    ],
+    "content-domain": {
+      "domain": ["link.springer.com"],
+      "crossmark-restriction": false
+    },
+    "short-container-title": ["J Supercomput"],
+    "published-print": {
+      "date-parts": [[2016, 12]]
+    },
+    "DOI": "10.1007/s11227-016-1893-6",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [[2016, 11, 9]],
+      "date-time": "2016-11-09T05:25:48Z",
+      "timestamp": 1478669148000
+    },
+    "page": "4415-4417",
+    "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 3,
+    "title": ["High-performance interconnection networks in the Exascale and Big-Data Era"],
+    "prefix": "10.1007",
+    "volume": "72",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-0835-8624",
+        "authenticated-orcid": false,
+        "given": "Jesús",
+        "family": "Escudero-Sahuquillo",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-7350-6067",
+        "authenticated-orcid": false,
+        "given": "Pedro Javier",
+        "family": "Garcia",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [[2016, 11, 9]]
+    },
+    "container-title": ["The Journal of Supercomputing"],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1007/s11227-016-1893-6.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://link.springer.com/article/10.1007/s11227-016-1893-6/fulltext.html",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1007/s11227-016-1893-6.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [[2016, 11, 9]],
+      "date-time": "2016-11-09T05:31:22Z",
+      "timestamp": 1478669482000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://link.springer.com/10.1007/s11227-016-1893-6"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [[2016, 11, 9]]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "12",
+      "published-print": {
+        "date-parts": [[2016, 12]]
+      }
+    },
+    "alternative-id": ["1893"],
+    "URL": "https://doi.org/10.1007/s11227-016-1893-6",
+    "relation": {},
+    "ISSN": ["0920-8542", "1573-0484"],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "0920-8542"
+      },
+      {
+        "type": "electronic",
+        "value": "1573-0484"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [[2016, 11, 9]]
+    }
+  }
+}

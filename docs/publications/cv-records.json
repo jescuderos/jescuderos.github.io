@@ -1,0 +1,408 @@
+[
+  {
+    "type": "article",
+    "number": 1,
+    "cv_title": "OBQA: Smart and Cost-Efficient Queue Scheme for Head-Of-Line Blocking Elimination in Fat- Trees",
+    "doi": "10.1016/j.jpdc.2011.07.007",
+    "source": "J. Escudero-Sahuquillo, P.J. García, F.J. Quiles, J. Flich, J. Duato\n   Título: OBQA: Smart and Cost-Efficient Queue Scheme for Head-Of-Line Blocking Elimination in Fat-\n   Trees\n   Publicación: Journal of Parallel and Distributed Computing\n   Ref. DOI: 10.1016/j.jpdc.2011.07.007 - ISSN 0743-7315\n   Volumen: 71, nº 11 Páginas, inicial: 1460           final: 1472     Fecha: Nov. 2011\n   Editorial: Academic Press Inc Elsevier Science Lugar de publicación: San Diego, California (EE.UU.)\n   Índice de impacto: 0,859 (JCR 2011)                 Posición:40/99 en el área \"Computer Science, Theory &\n   Methods\" del ISI                                    Ranking: Q3/T2"
+  },
+  {
+    "type": "article",
+    "number": 2,
+    "cv_title": "Cost-Effective Queue Schemes for Reducing Head-Of-Line Blocking in Fat-Trees",
+    "doi": "10.1002/cpe.1764",
+    "source": "J. Escudero-Sahuquillo, P.J. García, F.J. Quiles, J. Flich, J. Duato\n   Título: Cost-Effective Queue Schemes for Reducing Head-Of-Line Blocking in Fat-Trees\n   Publicación: Concurrency and Computation: Practice and Experience\n   Ref. DOI: 10.1002/cpe.1764 - ISSN 1532-0626\n   Volumen: 23, nº 17 Páginas, inicial: 2235        final: 2248        Fecha: Dic. 2011\n   Editorial: John Wiley & Sons Ltd.                Lugar de publicación: Hoboken, New Jersey (EE.UU.)\n   Índice de impacto: 0,636 (JCR 2011)              Posición: 64/99 en el área \"Computer Science, Theory &\n   Methods\" del ISI                                 Ranking: Q2/T2"
+  },
+  {
+    "type": "article",
+    "number": 3,
+    "cv_title": "An Effective and Feasible Congestion Management Technique for High-Performance MINs with Tag-Based Distributed Routing",
+    "doi": "10.1109/TPDS.2012.303",
+    "source": "J. Escudero-Sahuquillo, P.J. García, F.J. Quiles, J. Flich, J. Duato\n   Título: An Effective and Feasible Congestion Management Technique for High-Performance MINs\n   with Tag-Based Distributed Routing\n   Publicación: IEEE Transactions on Parallel and Distributed Systems\n   Ref. DOI: 10.1109/TPDS.2012.303 - ISSN: 1045-9219\n   Volumen: 24, nº 10 Páginas, inicial: 1918         final: 1929        Fecha: octubre 2013\n   Editorial: IEEE Computer Society Press            Lugar de publicación: Los Alamitos, California (EE.UU.)\n   Índice de impacto: 2,173 (JCR 2013)               Posición: 10/102 en el área \"Computer Science, Theory\n   & Methods\" del ISI                                Ranking: Q1/T1"
+  },
+  {
+    "type": "article",
+    "number": 4,
+    "cv_title": "A New Proposal to Deal with Congestion in InfiniBand-based Fat-Trees",
+    "doi": "10.1016/j.jpdc.2013.09.002",
+    "source": "J. Escudero-Sahuquillo, P.J. García, F.J. Quiles, S-A. Reinemo, T. Skeie, O.\n   Lysne, J. Duato\n   Título: A New Proposal to Deal with Congestion in InfiniBand-based Fat-Trees\n   Publicación: Journal of Parallel and Distributed Computing\n   Ref. DOI: 10.1016/j.jpdc.2013.09.002 - ISSN 0743-7315\n   Volumen: 74, nº 1         Páginas, inicial: 1802    final: 1819     Fecha: Enero 2014\n   Editorial: Academic Press Inc Elsevier Science Lugar de publicación: San Diego, California (EE.UU.)\n   Índice de impacto: 1,179 (JCR 2014)                 Posición: 36/102 en el área \"Computer Science, Theory\n   & Methods\" del ISI                                  Ranking: Q2/T2"
+  },
+  {
+    "type": "article",
+    "number": 5,
+    "cv_title": "Efficient and Cost-Effective Hybrid Congestion Control for HPC Interconnection Networks",
+    "doi": "10.1109/TPDS.2014.2307851",
+    "source": "J. Escudero-Sahuquillo, E.G. Gran, P.J. García, J. Flich, T. Skeie, O. Lysne, F.J.\n   Quiles, J. Duato\n   Título: Efficient and Cost-Effective Hybrid Congestion Control for HPC Interconnection Networks\n   Publicación: IEEE Transactions on Parallel and Distributed Systems\n   Ref. DOI: 10.1109/TPDS.2014.2307851 - ISSN: 1045-9219\n   Volumen: 26, nº 1         Páginas, inicial: 107   final: 119         Fecha: Enero 2015\n   Editorial: IEEE Computer Society Press            Lugar de publicación:\n   Índice de impacto: 2,661 (JCR 2015)               Posición: 9/105 en el área \"Computer Science, Theory &\n   Methods\" del ISI                                  Ranking: Q1/T1"
+  },
+  {
+    "type": "article",
+    "number": 6,
+    "cv_title": "Straightforward solutions to reduce HoL blocking in different Dragonfly fully-connected interconnection patterns",
+    "doi": "10.1007/s11227-016-1756-1",
+    "source": "P. Yébenes, J. Escudero-Sahuquillo, P.J. García, F.J. Quiles\n   Título: Straightforward solutions to reduce HoL blocking in different Dragonfly fully-connected\n   interconnection patterns\n   Publicación: The Journal of Supercomputing\n   Ref. DOI: 10.1007/s11227-016-1756-1 - ISSN: 0920-8542\n   Volumen: 72, nº 12 Páginas, inicial: 4497         final: 4519        Fecha: Diciembre 2016\n   Editorial: Springer                               Lugar de publicación: Alemania\n   Índice de impacto: 1,326 (JCR 2016)               Posición: 52/104 en el área \"Computer Science, Theory\n   & Methods\" del ISI                                Ranking: Q2/T2"
+  },
+  {
+    "type": "article",
+    "number": 7,
+    "cv_title": "An open-source family of tools to reproduce MPI-based workloads in interconnection network simulators",
+    "doi": "10.1007/s11227-016-1756-1",
+    "source": "F.J. Andujar, J.A. Villar, F.J. Alfaro, J.L. Sánchez, J. Escudero-Sahuquillo\n   Título: An open-source family of tools to reproduce MPI-based workloads in interconnection network\n   simulators\n   Publicación: The Journal of Supercomputing\n   Ref. DOI: 10.1007/s11227-016-1756-1 - ISSN: 0920-8542\n   Volumen: 72, nº 12 Páginas, inicial: 4601            final: 4628       Fecha: Diciembre     2016    Editorial:\n   Springer\n   Lugar de publicación: Alemania\n   Índice de impacto: 1,326 (JCR 2016)                  Posición: 52/104 en el área \"Computer Science, Theory\n   & Methods\" del ISI                                   Ranking: Q2/T2"
+  },
+  {
+    "type": "article",
+    "number": 8,
+    "cv_title": "Providing Differentiated Services, Congestion Management, and Deadlock Freedom in Dragonfly Networks with Adaptive Routing",
+    "doi": "10.1002/cpe.4066",
+    "source": "P. Yébenes, J. Escudero-Sahuquillo, P.J. García, F.J. Alfaro, F.J. Quiles\n   Título: Providing Differentiated Services, Congestion Management, and Deadlock Freedom in\n   Dragonfly Networks with Adaptive Routing\n   Publicación: Concurrency and Computation: Practice and Experience\n   Ref. DOI: 10.1002/cpe.4066 - ISSN: 1532-0626\n   Volumen: 29, nº 13               Páginas, inicial:          final: Fecha: Julio 2017\n   Editorial: John Wiley & Sons Ltd.\n   Lugar de publicación: Hoboken, New Jersey (EE.UU.)\n   Índice de impacto: 1,114 (JCR 2017)                Posición: 53/103 en el área \"Computer Science, Theory\n   & Methods\" del ISI                                 Ranking: Q3/T2"
+  },
+  {
+    "type": "article",
+    "number": 9,
+    "cv_title": "Scalable Deadlock-free Deterministic Minimal-Path Routing Engine for InfiniBand-Based Dragonfly Networks",
+    "doi": "10.1109/TPDS.2017.2742503",
+    "source": "G. Maglione, P. Yébenes, J. Escudero-Sahuquillo, P.J. García, F.J. Quiles, E.\n   Zahavi\n   Título: Scalable Deadlock-free Deterministic Minimal-Path Routing Engine for InfiniBand-Based\n   Dragonfly Networks\n   Publicación: IEEE Transactions on Parallel and Distributed Systems\n   Ref. DOI: 10.1109/TPDS.2017.2742503, ISSN: 1045-9219\n   Volumen: 29, nº 1        Páginas, inicial: 183   final: 197      Fecha: Enero 2018\n   Editorial: IEEE Computer Society Press\n   Lugar de publicación: Los Alamitos, California (EE.UU.)\n   Índice de impacto: 3,402 (JCR 2018)              Posición: 16/104 en el área \"Computer Science, Theory\n   & Methods\" del ISI                               Ranking: Q1/T1"
+  },
+  {
+    "type": "article",
+    "number": 10,
+    "cv_title": "Feasible Enhancements to Congestion Control in InfiniBand-based Networks",
+    "doi": "10.1016/j.jpdc.2017.09.008",
+    "source": "J. Escudero-Sahuquillo, P.J. García, F.J. Quiles, J. Duato, G. Maglione\n    Título: Feasible Enhancements to Congestion Control in InfiniBand-based Networks\n    Publicación: Journal of Parallel and Distributed Computing\n    Ref. DOI: 10.1016/j.jpdc.2017.09.008, ISSN 0743-7315\n    Volumen: 112, nº          Páginas, inicial: 35      final: 52       Fecha: Enero 2018\n    Editorial: Academic Press Inc Elsevier Science Lugar de publicación: San Diego, California (EE.UU.)\n    Índice de impacto: 1,819 (JCR 2018)                 Posición: 43/104 en el área \"Computer Science, Theory\n    & Methods\" del ISI                                  Ranking: Q2/T2"
+  },
+  {
+    "type": "article",
+    "number": 11,
+    "cv_title": "Head-of-Line Blocking Avoidance in Slim Fly networks using Deadlock-free Non-minimal and Adaptive Routing",
+    "doi": "10.1002/cpe.4441",
+    "source": "P. Yébenes, J. Escudero-Sahuquillo, P.J. García, F.J. Quiles, T. Hoefler\n    Título: Head-of-Line Blocking Avoidance in Slim Fly networks using Deadlock-free Non-minimal and\n    Adaptive Routing\n    Publicación: Concurrency and Computation: Practice and Experience\n    Ref. DOI: 10.1002/cpe.4441 - ISSN: 1532-0626\n    Volumen: 31, nº 2        Páginas, inicial:          final:    Fecha: Febrero 2018\n    Editorial: John Wiley & Sons Ltd.          Lugar de publicación: Hoboken, New Jersey (EE.UU.)\n    Índice de impacto: 1,167 (JCR 2018)        Posición: 59/104 en el área \"Computer Science, Theory &\n    Methods\" del ISI                           Ranking: Q3/T2"
+  },
+  {
+    "type": "article",
+    "number": 12,
+    "cv_title": "Combining Source-adaptive and Oblivious Routing with Congestion Control in High- performance Interconnects using Hybrid and Direct Topologies",
+    "doi": "10.1145/3319805",
+    "source": "P. Yébenes, J. Rocher, J. Escudero-Sahuquillo, P.J. García, F.J. Alfaro, F.J.\n    Quiles, C. Gómez, J. Duato\n    Título: Combining Source-adaptive and Oblivious Routing with Congestion Control in High-\n    performance Interconnects using Hybrid and Direct Topologies\n    Publicación: ACM Transactions on Architecture and Code Optimization (TACO)\n    Ref. DOI: 10.1145/3319805 - ISSN: 1544-3566\n    Volumen: 16, nº 2        Páginas, inicial: 17:1      final: 17:26     Fecha: Mayo 2019\n    Editorial: ACM                              Lugar de publicación: Nueva York, Nueva York (EE.UU.)\n    Índice de impacto: 1,309 (JCR 2019)         Posición: 57/108 en el área \"Computer Science, Theory &\n    Methods\" del ISI                            Ranking: Q3/T2"
+  },
+  {
+    "type": "article",
+    "number": 13,
+    "cv_title": "Path2SL: Leveraging InfiniBand Resources to Reduce Head-of-Line Blocking in Fat Trees",
+    "doi": "10.1109/MM.2019.2949280",
+    "source": "G. Maglione, J. Escudero-Sahuquillo, P.J. García, F.J. Quiles, J. Duato\n    Título: Path2SL: Leveraging InfiniBand Resources to Reduce Head-of-Line Blocking in Fat Trees\n    Publicación: IEEE Micro\n    Ref. DOI: 10.1109/MM.2019.2949280 - ISSN: 0272-1732\n    Volumen: 40, nº 1         Páginas, inicial: 8          final: 14        Fecha: Enero 2020\n    Editorial: IEEE Computer Society              Lugar de publicación: Washington, DC, (EE.UU.)\n    Índice de impacto: 4,175 (JCR 2020)           Posición: 11/53 en el área \"Computer Science, Hardware &\n    Architecture\" del ISI                         Ranking: Q1/T1"
+  },
+  {
+    "type": "article",
+    "number": 14,
+    "cv_title": "Towards an efficient combination of adaptive routing and queuing schemes in fat-tree topologies",
+    "doi": "10.1016/j.jpdc.2020.07.009",
+    "source": "J. Rocher, J. Escudero-Sahuquillo, P.J. Garcia, F.J. Quiles, G. Mora\n    Título: Towards an efficient combination of adaptive routing and queuing schemes in fat-tree\n    topologies\n    Publicación: Journal of Parallel and Distributed Computing\n    Ref. DOI: 10.1016/j.jpdc.2020.07.009 - ISSN: 0743-7315\n    Volumen: 147, nº 1 Páginas, inicial: 46              final: 63        Fecha: Enero 2021\n    Editorial: Elsevier B. V.                   Lugar de publicación: Amsterdam (Holanda)\n    Índice de impacto: 4,542 (JCR 2021)         Posición: 18/110 en el área \"Computer Science, Theory &\n    Methods\" del ISI                            Ranking: Q1/T1"
+  },
+  {
+    "type": "article",
+    "number": 15,
+    "cv_title": "Leveraging InfiniBand controller to configure deadlock-free routing engines for Dragonflies",
+    "doi": "10.1016/j.jpdc.2020.07.010",
+    "source": "G. Maglione, J. Escudero-Sahuquillo, P.J. Garcia, F.J. Quiles, E. Zahavi\n    Título: Leveraging InfiniBand controller to configure deadlock-free routing engines for Dragonflies\n    Publicación: Journal of Parallel and Distributed Computing\n    Ref. DOI: 10.1016/j.jpdc.2020.07.010 - ISSN: 0743-7315\n    Volumen: 147, nº 1 Páginas, inicial: 16              final: 33        Fecha: Enero 2021\n    Editorial (si libro): Elsevier B. V.        Lugar de publicación: Amsterdam (Holanda)\n    Índice de impacto: 4,542 (JCR 2021)         Posición: 18/110 en el área \"Computer Science, Theory &\n    Methods\" del ISI                            Ranking: Q1/T1"
+  },
+  {
+    "type": "article",
+    "number": 16,
+    "cv_title": "A methodology to enable QoS provision on InfiniBand hardware",
+    "doi": "10.1007/s11227-021-03667-x",
+    "source": "J. Cano-Cano, F. J. Andújar, J. Escudero-Sahuquillo, F. J. Alfaro-Cortés,\n    J. L. Sánchez\n    Título: A methodology to enable QoS provision on InfiniBand hardware\n    Publicación: Journal of Supercomputing (JS)\n    Ref. DOI: 10.1007/s11227-021-03667-x - ISSN: 1573-0484\n    Volumen: 77, nº 9          Páginas, inicial: 9934       final: 9946   Fecha: 2021\n    Editorial: Springer Nature                     Lugar de publicación:\n    Índice de impacto: 2,557 (JCR 2021)            Posición: 43/102 en el área: \"Computer Science, Theory &\n    Methods\" del ISI                               Ranking: Q2/T2"
+  },
+  {
+    "type": "article",
+    "number": 17,
+    "cv_title": "DVL-Lossy: Isolating Congesting Flows to Optimize Packet Dropping in Lossy Data-Center Networks",
+    "doi": "10.1109/MM.2020.3042263",
+    "source": "C. Olmedilla, J. Escudero-Sahuquillo, P. J. García, F. J. Alfaro-Cortés, J. L.\n    Sánchez; F. J. Quiles, W. Sun, X. Yu, Y. Xu, J. Duato\n    Título: DVL-Lossy: Isolating Congesting Flows to Optimize Packet Dropping in Lossy Data-Center\n    Networks\n    Publicación: IEEE Micro\n    Ref. DOI: 10.1109/MM.2020.3042263 - ISSN: 0272-1732\n    Volumen: 41, nº1 Páginas, inicial: 37    final: 44 Fecha: 2021\n    Editorial: IEEE Computer Society Press, Lugar de publicación: Los Alamitos, California (EE.UU.)\n    Índice de impacto: 2,821 (JCR 2021)      Posición: 26/54 en el área: \"Computer Science, Hardware &\n    Architecture\"                            Ranking: Q2/T2"
+  },
+  {
+    "type": "article",
+    "number": 18,
+    "cv_title": "Reducing the Impact of Interjob Interference in Dragonfly Networks Using Virtual Partitions",
+    "doi": "10.1109/MM.2022.3151258",
+    "source": "G. Maglione, J. Escudero, P.J. García, F.J. Quiles\n    Título: Reducing the Impact of Interjob Interference in Dragonfly Networks Using Virtual Partitions\n    Publicación: IEEE Micro\n    Ref. DOI: 10.1109/MM.2022.3151258, ISSN: 0272-1732\n    Volumen: 42, nº 3                 Páginas, inicial: 50     final: 56        Fecha: Mayo 2022\n    Editorial (si libro): IEEE Computer Society Press, Lugar de publicación: Los Alamitos, California (EE.UU.)\n    Índice de impacto: 3,6 (JCR 2022)           Posición: 21/54 en el área \"Computer Science, Hardware &\n    Architecture\" del ISI                       Ranking: Q2/T1"
+  },
+  {
+    "type": "article",
+    "number": 19,
+    "cv_title": "Congestion management in high-performance interconnection networks using adaptive routing notifications",
+    "doi": "10.1007/s11227-022-04926-1",
+    "source": "J. Rocher, J. Escudero-Sahuquillo, P.J. García, F.J. Quiles\n    Título: Congestion management in high-performance interconnection networks using adaptive routing\n    notifications\n    Publicación: Journal of Supercomputing (JS)\n    Ref. DOI: 10.1007/s11227-022-04926-1, ISSN: 0920-8542\n    Volumen: 79, nº 7                 Páginas, inicial: 7804       final: 7834  Fecha: Mayo 2023\n    Editorial: Springer                         Lugar de publicación: Alemania\n    Índice de impacto: 2,5 (JCR 2023)           Posición: 28/59 en el área: \"Computer Science, Hardware &\n    Architecture\" del ISI                       Ranking: Q2/T2"
+  },
+  {
+    "type": "article",
+    "number": 20,
+    "cv_title": "Extending the VEF traces framework to model data center network workloads",
+    "doi": "10.1007/s11227-022-04692-0",
+    "source": "F. J. Andújar, M. Sánchez de la Rosa, J. Escudero-Sahuquillo, J. L. Sánchez\n    Título: Extending the VEF traces framework to model data center network workloads\n    Publicación: Journal of Supercomputing (JS) ­ Open Access\n    Ref. DOI: 10.1007/s11227-022-04692-0, ISSN: 0920-8542\n    Volumen: 79, nº7                  Páginas, inicial: 814        final: 831   Fecha: Enero 2023\n    Editorial: Springer                         Lugar de publicación: Alemania\n    Índice de impacto: 2,5 (JCR 2023)           Posición: 28/59 en el área: \"Computer Science, Hardware &\n    Architecture\" del ISI                       Ranking: Q2/T2"
+  },
+  {
+    "type": "article",
+    "number": 21,
+    "cv_title": "Monitoring InfiniBand Networks to React Efficiently to Congestion",
+    "doi": "10.1109/MM.2023.3241840",
+    "source": "A. Cascajo, G. Gomez-Lopez, J. Escudero-Sahuquillo, P. J. Garcia, D. E. Singh,\n    F. J. Alfaro-Cortés, F. J. Quiles, J. Carretero\n    Título: Monitoring InfiniBand Networks to React Efficiently to Congestion\n    Publicación: IEEE Micro\n    Ref. DOI: 10.1109/MM.2023.3241840 - ISSN: 0272-1732\n    Volumen: 43, nº 2                 Páginas, inicial: 120    final: 130     Fecha: Marzo 2023\n    Editorial: IEEE Computer Society Press, Lugar de publicación: Los Alamitos, California (EE.UU)\n    Índice de impacto: 2,8 (JCR 2023)           Posición: 21/54 en el área \"Computer Science, Hardware &\n    Architecture\" del ISI                       Ranking: Q2/T2"
+  },
+  {
+    "type": "article",
+    "number": 22,
+    "cv_title": "Implementation and testing of a KNS topology in an InfiniBand cluster",
+    "doi": "10.1007/s11227-024-06214-6",
+    "source": "G. Gomez-Lopez, J. Escudero-Sahuquillo, P. J. Garcia, F. J. Quiles\n    Título: Implementation and testing of a KNS topology in an InfiniBand cluster\n    Publicación: Journal of Supercomputing (JS) ­ Open Access\n    Ref. DOI: 10.1007/s11227-024-06214-6 - ISSN: 0920-8542\n    Volumen: 80,              Páginas, inicial: 21306      final: 21338      Fecha: Junio 2024\n    Editorial: Springer                           Lugar de publicación: Alemania\n    Índice de impacto: 2,5 (JCR 2023)             Posición: 28/59 en el área: \"Computer Science, Hardware &\n    Architecture\" del ISI                         Ranking: Q2/T2"
+  },
+  {
+    "type": "article",
+    "number": 23,
+    "cv_title": "RED-SEA Project: Towards a new-generation European interconnect",
+    "doi": "10.1016/j.micpro.2024.105102",
+    "source": "M.E. Gomez, J. Sahuquillo, Andrea Biagioni, [...], J. Escudero-Sahuquillo, et al.\n    (73 autores)\n    Título: RED-SEA Project: Towards a new-generation European interconnect\n    Publicación: Microprocessors and Microsystems ­ Open Access\n    Ref. DOI: 10.1016/j.micpro.2024.105102 - ISSN: 0141-9331\n    Volumen: 110                               Fecha: Octubre 2024\n    Editorial: Elsevier                        Lugar de publicación: Amsterdam (Países bajos)\n    Índice de impacto: 1,9 (JCR 2023)          Posición: 60/144 en el área: \"Computer Science, Theory and\n    Methods\" del ISI                           Ranking: Q2/T2"
+  },
+  {
+    "type": "article",
+    "number": 24,
+    "cv_title": "A smart and novel approach for managing incast and in-network congestion through adaptive routing",
+    "doi": "10.1016/j.future.2024.04.041",
+    "source": "J. Rocher-Gonzalez, J. Escudero-Sahuquillo, P. J. Garcia, F. J. Quiles, J. Duato\n    Título: A smart and novel approach for managing incast and in-network congestion through adaptive\n    routing\n    Publicación: Future Generation Computing Systems ­ Open Access\n    Ref. DOI: 10.1016/j.future.2024.04.041 - ISSN: 0167-739X\n    Volumen: 159                                Páginas, inicial: 27 final: 38 Fecha: Octubre 2024\n    Editorial: Elsevier Sciencie BV             Lugar de publicación: Amsterdam (Países bajos)\n    Índice de impacto: 6,2 (JCR 2023)           Posición: 10/111 en el área: \"Computer Science, Theory and\n    Methods\" del ISI                            Ranking: Q1/T1/D1"
+  },
+  {
+    "type": "article",
+    "number": 25,
+    "cv_title": "ECP: Improving the Accuracy of Congesting-Packets Identification in High-Performance Interconnection Networks",
+    "doi": "10.1109/MM.2025.3527722",
+    "source": "C. Olmedilla, J.Escudero-Sahuquillo, P. J. Garcia, F. J. Quiles, W. Sun, L.Yan,\n    Y. Lyu, J. Duato\n    Título: ECP: Improving the Accuracy of Congesting-Packets Identification in High-Performance\n    Interconnection Networks\n    Publicación: IEEE Micro ­ Open Access (APC en progreso)\n    Ref. DOI: 10.1109/MM.2025.3527722 - ISSN: 0272-1732\n    Volumen: Pre-print                Fecha: 2025\n    Editorial: IEEE Computer Society Press, Lugar de publicación: Los Alamitos, California (EE.UU)\n    Índice de impacto: 2,8 (JCR 2023)          Posición: 21/54 en el área \"Computer Science, Hardware &\n    Architecture\" del ISI                      Ranking: Q2/T2"
+  },
+  {
+    "type": "article",
+    "number": 26,
+    "cv_title": "Quality-of-service provision for BXIv3-based interconnection networks",
+    "doi": "10.1007/s11227-025-07069-1",
+    "source": "M. Sánchez de la Rosa, G. Gomez-Lopez, F. J. Andujar, J. Escudero-Sahuquillo,\n    J. L. Sanchez, F. J. Alfaro-Cortes, P-A. Lagadec\n    Título: Quality-of-service provision for BXIv3-based interconnection networks\n    Publicación: Journal of Supercomputing (JS) ­ Open Access\n    Ref. DOI: 10.1007/s11227-025-07069-1- ISSN: 0920-8542\n    Volumen: 81                               Fecha: Marzo 2025\n    Editorial: Springer                       Lugar de publicación: Alemania\n    Índice de impacto: 2,5 (JCR 2023)         Posición: 28/59 en el área: \"Computer Science, Hardware &\n    Architecture\" del ISI                     Ranking: Q2/T2\n\f"
+  },
+  {
+    "type": "inproceedings",
+    "number": 1,
+    "cv_title": "FBICM: Efficient Congestion Management for High-Performance Networks using Distributed Deterministic Routing",
+    "doi": "10.1007/978-3-540-89894-8_44",
+    "source": "J. Escudero-Sahuquillo, P.J. García, F.J. Quiles, J. Flich, J. Duato\n   Título: FBICM: Efficient Congestion Management for High-Performance Networks using Distributed\n   Deterministic Routing\n   Publicación: Lecture Notes in Computer Science (Proceedings of HiPC 2008)\n   Ref. ISBN 978-3-540-89893-1, ISSN 0302-9743\n   DOI: 10.1007/978-3-540-89894-8_44\n   Volumen:           5374 Páginas, inicial: 503        final: 517        Fecha: Diciembre 2008\n   Editorial (si libro): Springer-Verlag       Lugar de publicación: Alemania\n   Tasa de aceptación: 46 / 319 => 14.4%                                            Nº de revisiones: 3\n   Clase congreso ranking GII-GRIN-SCIE (2015): 3, B"
+  },
+  {
+    "type": "inproceedings",
+    "number": 2,
+    "cv_title": "Cost-Effective Congestion Management for Interconnection Networks Using Distributed Deterministic Routing",
+    "doi": "10.1109/ICPADS.2010.14",
+    "source": "J. Escudero-Sahuquillo, P.J. García, F.J. Quiles, J. Flich, J. Duato\n   Título: Cost-Effective Congestion Management for Interconnection Networks Using Distributed\n   Deterministic Routing\n   Publicación: Proceedings of the IEEE 16th International Conference on Parallel and Distributed\n   Systems (ICPADS 2010)\n   Ref. ISBN 978-0-7695-4307, ISSN 1521-9097\n   DOI: 10.1109/ICPADS.2010.14\n   Páginas, inicial:          final: 364    Fecha: Diciembre 2010\n   Editorial (si libro): IEEE Computer Society Press           Lugar de publicación: Shanghai (China)\n   Tasa de aceptación: 77 / 188 => 40.9%             Nº de revisiones: 3\n   Clase congreso ranking GII-GRIN-SCIE (2015): 3, B"
+  },
+  {
+    "type": "inproceedings",
+    "number": 3,
+    "cv_title": "An Efficient Strategy for Reducing Head-Of-Line Blocking in Fat-Trees",
+    "doi": "10.1007/978-3-642-15291-7_39",
+    "source": "J. Escudero-Sahuquillo, P.J. García, F.J. Quiles, J. Duato\n   Título: An Efficient Strategy for Reducing Head-Of-Line Blocking in Fat-Trees\n   Publicación: Lecture Notes in Computer Science (Proceedings of Euro-Par 2010, Part II)\n   Ref. ISBN 978-3-642-15290-0, ISSN 0302-9743\n   DOI: 10.1007/978-3-642-15291-7_39\n   Volumen:           6272 Páginas, inicial: 413      final: 427                 Fecha: Agosto 2010\n   Editorial (si libro): Springer-Verlag              Lugar de publicación: Alemania\n   Tasa de aceptación: 90 / 256 => 35.1%                                          Nº de revisiones: 4\n   Clase congreso ranking GII-GRIN-SCIE (2015): 2, A-"
+  },
+  {
+    "type": "inproceedings",
+    "number": 4,
+    "cv_title": "Combining Congested-Flow Isolation and Injection Throttling in HPC Interconnection Networks",
+    "doi": "10.1109/ICPP.2011.80",
+    "source": "J. Escudero-Sahuquillo, E. G. Gran, P.J. García, J. Flich, T. Skeie, O. Lysne, F.J.\n   Quiles, J. Duato\n   Título: Combining Congested-Flow Isolation and Injection Throttling in HPC Interconnection Networks\n   Publicación: Proceedings of the 40th International Conference on Parallel Processing (ICPP 2011)\n   Ref. ISBN 978-0-7695-4510-3, ISSN 0190-3918\n   DOI: 10.1109/ICPP.2011.80\n   Páginas, inicial: 662 final: 672         Fecha: Septiembre 2011\n   Editorial (si libro): IEEE Computer Society Press         Lugar de publicación: Taipei (Taiwán)\n   Tasa de aceptación: 81 / 363 => 22.3%                     Nº de revisiones: 3\n   Clase congreso ranking GII-GRIN-SCIE (2015): 2, A-"
+  },
+  {
+    "type": "inproceedings",
+    "number": 5,
+    "cv_title": "Towards Modeling Interconnection Networks of Exascale Systems with OMNet++",
+    "doi": "10.1109/PDP.2013.36",
+    "source": "P. Yébenes, J. Escudero-Sahuquillo, P.J. García, F.J. Quiles\n   Título: Towards Modeling Interconnection Networks of Exascale Systems with OMNet++\n   Publicación: Proceedings of the 21st Euromicro International Conference on Parallel, Distributed, and\n   Network-Based Processing (PDP 2013)\n   Ref. ISBN 978-0-7695-4939-2\n   DOI: 10.1109/PDP.2013.36\n   Páginas, inicial: 203 final: 207         Fecha: Febrero 2013\n   Editorial (si libro): IEEE Computer Society's Conference Publishing Services (CPS)\n   Lugar de publicación: Belfast (Irlanda del Norte, Reino Unido)\n   Tasa de aceptación: 52 /133 => 39,09% Nº de revisiones: 4\n   Clase congreso ranking GII-GRIN-SCIE (2015): 3, B-"
+  },
+  {
+    "type": "inproceedings",
+    "number": 6,
+    "cv_title": "BBQ: A Straightforward Queuing Scheme to Reduce HoL-Blocking in High-Performance Hybrid Networks",
+    "doi": "10.1007/978-3-642-40047-6_70",
+    "source": "P. Yébenes, J. Escudero-Sahuquillo, C. Gómez, P.J. García, F.J. Quiles, J.\n   Duato\n   Título: BBQ: A Straightforward Queuing Scheme to Reduce HoL-Blocking in High-Performance Hybrid\n   Networks\n   Publicación: Lecture Notes in Computer Science (Proceedings of Euro-Par 2013)\n   Ref. ISBN 978-3-642-40046-9, ISSN 0302-9743\n   DOI: 10.1007/978-3-642-40047-6_70\n   Volumen:            8097 Páginas, inicial: 699     final: 712                 Fecha: Agosto 2013\n   Editorial (si libro): Springer-Verlag              Lugar de publicación: Alemania\n   Tasa de aceptación: 70 / 261 => 26.8%                                          Nº de revisiones: 3\n   Clase congreso ranking GII-GRIN-SCIE (2015): 2, A-"
+  },
+  {
+    "type": "inproceedings",
+    "number": 7,
+    "cv_title": "Combining HoL-blocking Avoidance and Differentiated Services in High-Speed Interconnects",
+    "doi": "10.1109/HiPC.2014.7116874",
+    "source": "P. Yébenes, J. Escudero-Sahuquillo, C. Gómez, P.J. García, F.J. Alfaro, F.J.\n   Quiles, J. Duato\n   Título: Combining HoL-blocking Avoidance and Differentiated Services in High-Speed Interconnects\n   Publicación: Proceedings of the 21st IEEE International Conference on High Performance Computing\n   (HiPC 2014)\n   Ref. ISBN 978-1-4799-5976-1\n   DOI: 10.1109/HiPC.2014.7116874\n   Páginas, inicial: 1       final: 10      Fecha: Diciembre 2014\n   Editorial (si libro): IEEE Computer Society Press        Lugar de publicación: Goa (India)\n   Tasa de aceptación: 49 / 216 => 22,69%            Nº de revisiones: 4\n   Clase congreso ranking GII-GRIN-SCIE (2015): 3, B"
+  },
+  {
+    "type": "inproceedings",
+    "number": 8,
+    "cv_title": "Analyzing available routing engines for InfiniBand-based clusters with Dragonfly topology",
+    "doi": "10.1109/HPCSim.2015.7237036",
+    "source": "G. Maglione, P. Yébenes, P.J. García, F.J. Quiles, J. Escudero-Sahuquillo\n   Título: Analyzing available routing engines for InfiniBand-based clusters with Dragonfly topology\n   Publicación: Proceedings of the 13th International Conference on High Performance Computing &\n   Simulation (HPCS 2015)\n   Ref. ISBN 978-1-4673-7812-3\n   DOI: 10.1109/HPCSim.2015.7237036\n   Páginas, inicial: 168 final: 171         Fecha: Julio 2015\n   Editorial (si libro): IEEE Computer Society Press         Lugar de publicación: Amsterdam (Holanda)\n   Tasa de aceptación: 45/119 => 38,81%               Nº de revisiones: 4\n   Clase congreso ranking GII-GRIN-SCIE (2018): 3, B-"
+  },
+  {
+    "type": "inproceedings",
+    "number": 9,
+    "cv_title": "Straightforward modeling of fully-connected dragonfly topologies in HPC-system simulators",
+    "doi": "10.1109/HPCSim.2015.7237037",
+    "source": "P. Yébenes, P.J. García, F.J. Quiles, J. Escudero-Sahuquillo\n   Título: Straightforward modeling of fully-connected dragonfly topologies in HPC-system simulators\n   Publicación: Proceedings of the 13th International Conference on High Performance Computing &\n   Simulation (HPCS 2015)\n   Ref. ISBN 978-1-4673-7812-3\n   DOI: 10.1109/HPCSim.2015.7237037\n   Páginas, inicial: 172 final: 178         Fecha: Julio 2015\n   Editorial (si libro): IEEE Computer Society Press         Lugar de publicación: Amsterdam (Holanda)\n   Tasa de aceptación: 45/119 => 38,81%               Nº de revisiones: 4\n   Clase congreso ranking GII-GRIN-SCIE (2018): 3, B-"
+  },
+  {
+    "type": "inproceedings",
+    "number": 10,
+    "cv_title": "VEF Traces: A Framework for Modelling MPI Traffic in Interconnection Network Simulators",
+    "doi": "10.1109/CLUSTER.2015.141",
+    "source": "F.J. Andujar, J.A. Villar, J.L. Sánchez, F.J. Alfaro, J. Escudero-Sahuquillo\n    Título: VEF Traces: A Framework for Modelling MPI Traffic in Interconnection Network Simulators\n    Publicación: Proceedings of the 2015 International Conference on Cluster Computing (CLUSTER\n    2015)\n    Ref. ISBN 978-1-4673-6598-7\n    DOI: 10.1109/CLUSTER.2015.141\n    Páginas, inicial: 817 final: 824              Fecha: Septiembre 2015\n    Editorial (si libro): IEEE Computer Society Press          Lugar de publicación: Chicago, Illinois (EE.UU.)\n    Tasa de aceptación:       Nº de revisiones: 4\n    Clase congreso ranking GII-GRIN-SCIE (2015): 2, A-"
+  },
+  {
+    "type": "inproceedings",
+    "number": 11,
+    "cv_title": "Efficient Queuing Schemes for HoL-Blocking Reduction in Dragonfly Topologies with Minimal- Path Routing",
+    "doi": "10.1109/CLUSTER.2015.138",
+    "source": "P. Yébenes, J. Escudero-Sahuquillo, P.J. García, F.J. Quiles\n    Título: Efficient Queuing Schemes for HoL-Blocking Reduction in Dragonfly Topologies with Minimal-\n    Path Routing\n    Publicación: Proceedings of the 2015 International Conference on Cluster Computing (CLUSTER 2015)\n    Ref. ISBN 978-1-4673-6598-7\n    DOI: 10.1109/CLUSTER.2015.138\n    Páginas, inicial: 817       final: 824          Fecha: Septiembre 2015\n    Editorial (si libro): IEEE Computer Society Press\n    Lugar de publicación: Chicago, Illinois (EE.UU.)\n    Tasa de aceptación:         Nº de revisiones: 4\n    Clase congreso ranking GII-GRIN-SCIE (2015): 2, A-"
+  },
+  {
+    "type": "inproceedings",
+    "number": 12,
+    "cv_title": "Providing Differentiated Services, Congestion Management, and Deadlock Freedom in Dragonfly Networks",
+    "doi": "10.1109/HIPINEB.2016.11",
+    "source": "P. Yébenes, J. Escudero-Sahuquillo, P.J. García, F.J. Alfaro, F.J. Quiles\n    Título: Providing Differentiated Services, Congestion Management, and Deadlock Freedom in\n    Dragonfly Networks\n    Publicación: Proceedings of the 2nd IEEE International Workshop on High-Performance Interconnection Networks in the\n    Exascale and Big-Data Era (HiPINEB 2016)\n    Ref. ISBN 978-1-5090-2121-5\n    DOI: 10.1109/HIPINEB.2016.11\n    Páginas, inicial: 33        final: 40           Fecha: Marzo 2016\n    Editorial (si libro): IEEE Conference Publishing Service         Lugar de publicación: Barcelona (España)\n    Tasa de aceptación:         Nº de revisiones: 3\n    Clase congreso ranking GII-GRIN-SCIE (2018): No indexado"
+  },
+  {
+    "type": "inproceedings",
+    "number": 13,
+    "cv_title": "Combining OpenFabrics Software and Simulation Tools for Modeling InfiniBand-Based Interconnection Networks",
+    "doi": "10.1109/HIPINEB.2016.7",
+    "source": "G. Maglione, P. Yébenes, J. Escudero-Sahuquillo, P.J. García, F.J. Quiles\n    Título: Combining OpenFabrics Software and Simulation Tools for Modeling InfiniBand-Based\n    Interconnection Networks\n    Publicación: Proceedings of the 2nd IEEE International Workshop on High-Performance Interconnection Networks in the\n    Exascale and Big-Data Era (HiPINEB 2016)\n    Ref. ISBN 978-1-5090-2121-5\n    DOI: 10.1109/HIPINEB.2016.7\n    Páginas, inicial: 55        final: 58           Fecha: Marzo 2016\n    Editorial (si libro): IEEE Conference Publishing Service         Lugar de publicación: Barcelona (España)\n    Tasa de aceptación:         Nº de revisiones: 3\n    Clase congreso ranking GII-GRIN-SCIE (2018): No indexado"
+  },
+  {
+    "type": "inproceedings",
+    "number": 14,
+    "cv_title": "Modeling a switch architecture with virtual output queues and virtual channels in HPC-systems simulators",
+    "doi": "10.1109/HPCSim.2016.7568360",
+    "source": "P. Yébenes, G. Maglione, J. Escudero-Sahuquillo, P.J. García, F.J. Quiles\n    Título: Modeling a switch architecture with virtual output queues and virtual channels in HPC-systems\n    simulators\n    Publicación: Proceedings of the 14th International Conference on High Performance Computing & Simulation (HPCS\n    2016)\n    Ref. ISBN 978-1-5090-2088-1\n    DOI: 10.1109/HPCSim.2016.7568360\n    Páginas, inicial: 380       final: 386       Fecha: Julio 2016\n    Editorial (si libro): IEEE Computer Society Press     Lugar de publicación: Innsbruck (Austria)\n    Tasa de aceptación: 53/137 => 38,69%         Nº de revisiones: 4\n    Clase congreso ranking GII-GRIN-SCIE (2018): 3, B-"
+  },
+  {
+    "type": "inproceedings",
+    "number": 15,
+    "cv_title": "An Effective Queuing Scheme to Provide Slim Fly topologies with HoL Blocking Reduction and Deadlock Freedom for Minimal-Path Routing",
+    "doi": "10.1109/HiPINEB.2017.9",
+    "source": "P. Yébenes, J. Escudero-Sahuquillo, P.J. García, F.J. Quiles, T. Hoefler\n    Título: An Effective Queuing Scheme to Provide Slim Fly topologies with HoL Blocking Reduction and\n    Deadlock Freedom for Minimal-Path Routing\n    Publicación: Proceedings of the 3rd IEEE International Workshop on High-Performance Interconnection Networks in the\n    Exascale and Big-Data Era (HiPINEB 2017)\n    Ref. ISBN 978-1-5090-6354-3\n    DOI: 10.1109/HiPINEB.2017.9\n    Páginas, inicial: 25        final: 32           Fecha: 5 de febrero 2017\n    Editorial (si libro): IEEE Conference Publishing Service          Lugar de publicación: Austin, Texas (EE.UU.)\n    Tasa de aceptación: 66%               Nº de revisiones: 4\n    Clase congreso ranking GII-GRIN-SCIE (2017): no indexado"
+  },
+  {
+    "type": "inproceedings",
+    "number": 16,
+    "cv_title": "On the Impact of Routing Algorithms in the Effectiveness of Queuing Schemes in High- Performance Interconnection Networks",
+    "doi": "10.1109/HOTI.2017.16",
+    "source": "J. Rocher, J. Escudero-Sahuquillo, P.J. García, F.J. Quiles\n    Título: On the Impact of Routing Algorithms in the Effectiveness of Queuing Schemes in High-\n    Performance Interconnection Networks\n    Publicación: Proceedings of the 25th IEEE Annual Symposium on High-Performance Interconnects (Hot Interconnects\n    2017)\n    Ref. ISBN 978-1-5386-1013-8\n    DOI:10.1109/HOTI.2017.16\n    Páginas, inicial: 65        final: 72           Fecha: 28 de agosto 2017\n    Editorial (si libro): IEEE Computer Society Press         Lugar de publicación: Santa Clara, California (EE.UU.)\n    Tasa de aceptación: 33%               Nº de revisiones: 3\n    Clase congreso ranking GII-GRIN-SCIE (2017): 2, A-"
+  },
+  {
+    "type": "inproceedings",
+    "number": 17,
+    "cv_title": "Improving Non-minimal and Adaptive Routing Algorithms in Slim Fly Networks",
+    "doi": "10.1109/HOTI.2017.11",
+    "source": "P. Yébenes, J. Escudero-Sahuquillo, P.J. García, F.J. Quiles, T. Hoefler\n    Título: Improving Non-minimal and Adaptive Routing Algorithms in Slim Fly Networks (best student\n    paper award)\n    Publicación: Proceedings of the 25th IEEE Annual Symposium on High-Performance Interconnects (Hot Interconnects\n    2017)\n    Ref. ISBN 978-1-5386-1013-8\n    DOI: 10.1109/HOTI.2017.11\n    Páginas, inicial: 1         final: 8           Fecha: 29 de agosto 2017\n    Editorial (si libro): IEEE Computer Society Press        Lugar de publicación: Santa Clara, California (EE.UU.)\n    Tasa de aceptación: 33%              Nº de revisiones: 3\n    Clase congreso ranking GII-GRIN-SCIE (2017): 2, A-"
+  },
+  {
+    "type": "inproceedings",
+    "number": 18,
+    "cv_title": "TopGen: A Library to Provide Simulation Tools with the Modeling of Interconnection Network Topologies",
+    "doi": "10.1109/HPCS.2018.00078",
+    "source": "J.A. Villar, G. Maglione, J. Escudero-Sahuquillo, P.J. García, F.J. Alfaro, J.L.\n    Sánchez, F.J. Quiles\n    Título: TopGen: A Library to Provide Simulation Tools with the Modeling of Interconnection Network\n    Topologies\n    Publicación: Proceedings of the 16th International Conference on High Performance Computing & Simulation (HPCS\n    2018)\n    Ref. ISBN 978-1-5386-7878-7\n    DOI:10.1109/HPCS.2018.00078\n    Páginas, inicial: 452       final: 459       Fecha: 19 de julio 2018\n    Editorial (si libro): IEEE Computer Society Press    Lugar de publicación: Orleans (Francia)\n    Tasa de aceptación: 53/136 => 38,97% Nº de revisiones: 3\n    Clase congreso ranking GII-GRIN-SCIE (2018): 3, B-"
+  },
+  {
+    "type": "inproceedings",
+    "number": 19,
+    "cv_title": "Efficient Congestion Management for High-Speed Interconnects using Adaptive Routing",
+    "doi": "10.1109/CCGRID.2019.00036",
+    "source": "J. Rocher, J. Escudero-Sahuquillo, P.J. García, F.J. Quiles, G. Mora\n    Título: Efficient Congestion Management for High-Speed Interconnects using Adaptive Routing\n    Publicación: Proceedings of the 19th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing\n    (CCGRID 2019)\n    Ref. ISBN 978-1-7281-0912-1\n    DOI: 10.1109/CCGRID.2019.00036\n    Páginas, inicial: 221       final: 230        Fecha: 14 mayo 2019\n    Editorial (si libro): IEEE Computer Society Press       Lugar de publicación: Larnaca (Chipre)\n    Tasa de aceptación: 47 / 270 => 17.4%         Nº de revisiones: 5\n    Clase congreso ranking GII-GRIN-SCIE (2018): 2, A"
+  },
+  {
+    "type": "inproceedings",
+    "number": 20,
+    "cv_title": "Path2SL: Optimizing Head-of-Line Blocking Reduction in InfiniBand-Based Fat-Tree Networks",
+    "doi": "10.1109/HOTI.2019.00014",
+    "source": "G. Maglione, J. Escudero-Sahuquillo, P.J. García, F.J. Quiles, J. Duato\n    Título: Path2SL: Optimizing Head-of-Line Blocking Reduction in InfiniBand-Based Fat-Tree Networks\n    Publicación: Proceedings of the 26th IEEE Symposium on High-Performance Interconnects (HOTI 2019)\n    Ref. ISBN-13: 978-1-7281-5525-8\n    DOI: 10.1109/HOTI.2019.00014\n    Páginas, inicial: 5         final: 8          Fecha: 14 de agosto de 2019\n    Editorial (si libro): IEEE Computer Society Press       Lugar de publicación: Santa Clara, CA (USA)\n    Tasa de aceptación: 16 / 29 => 55,1%          Nº de revisiones: 3\n    Clase congreso ranking GII-GRIN-SCIE (2018): 2, A-"
+  },
+  {
+    "type": "inproceedings",
+    "number": 21,
+    "cv_title": "Efficient Dynamic Isolation of Congestion in Lossless DataCenter Networks",
+    "doi": "10.1145/3341558.3342200",
+    "source": "L. Gonzalez, J. Escudero-Sahuquillo, P.J. García, F.J. Quiles, J. Duato, W. Sun,\n    L. Shen, X. Yu, H. Zheng\n    Título: Efficient Dynamic Isolation of Congestion in Lossless DataCenter Networks\n    Publicación: Proceedings of the ACM SIGCOMM 2019 Workshop on Networking for Emerging Applications\n    andTechnologies (NEAT'19)\n    Ref. ISBN: 978-1-4503-6876-6\n    DOI: 10.1145/3341558.3342200\n    Páginas, inicial: 15       final: 21      Fecha: 19 de agosto de 2019\n    Editorial (si libro): ACM                           Lugar de publicación: Beijing (China)\n    Tasa de aceptación: 8/18 => 44,4%         Nº de revisiones: 3\n    Clase congreso ranking GII-GRIN-SCIE (2018): No indexado"
+  },
+  {
+    "type": "inproceedings",
+    "number": 22,
+    "cv_title": "Modeling Traffic Workloads in Data-center Network Simulation Tools",
+    "doi": "10.1109/HPCS48598.2019.9188099",
+    "source": "L. González, J. Escudero-Sahuquillo, P.J. García, F.J. Quiles, J. Duato, W. Sun,\n    X. Yu, H. Zheng\n    Título: Modeling Traffic Workloads in Data-center Network Simulation Tools\n    Publicación: Proceedings of the IEEE International Conference on High Performance Computing & Simulation (HPCS\n    2019)\n    Ref. ISBN: 978-1-7281-4484-9\n    DOI: 10.1109/HPCS48598.2019.9188099\n    Páginas, inicial: 1036 final: 1042              Fecha: 15-19 de julio de 2019\n    Editorial (si libro): IEEE Computer Society Press        Lugar de publicación: Dublín (Irlanda)\n    Tasa de aceptación:         Nº de revisiones: 3\n    Clase congreso ranking GII-GRIN-SCIE (2021): 3, B-"
+  },
+  {
+    "type": "inproceedings",
+    "number": 23,
+    "cv_title": "Methodology for Decoupled Simulation of SystemVerilog HDL Designs",
+    "doi": "10.1109/HPCS48598.2019.9188056",
+    "source": "J.J. Crespo, G. Maglione, J.L. Sanchez, F.J. Alfaro, J. Escudero-Sahuquillo, P.J.\n    Garcia, F.J. Quiles\n    Título: Methodology for Decoupled Simulation of SystemVerilog HDL Designs\n    Publicación: Proceedings of the IEEE International Conference on High Performance Computing & Simulation (HPCS\n    2019)\n    Ref. ISBN: 978-1-7281-4484-9\n    DOI: 10.1109/HPCS48598.2019.9188056\n    Páginas, inicial: 1036 final: 1042              Fecha: 15-19 de julio de 2019\n    Editorial (si libro): IEEE Computer Society Press\n    Lugar de publicación: Dublín (Irlanda)\n    Tasa de aceptación:         Nº de revisiones: 4\n    Clase congreso ranking GII-GRIN-SCIE (2021): 3, B-"
+  },
+  {
+    "type": "inproceedings",
+    "number": 24,
+    "cv_title": "Effects of Congestion Management on Energy Saving Techniques in Interconnection Networks",
+    "doi": "10.1109/HiPINEB.2019.00009",
+    "source": "F. Zahn, P. Yebenes, J. Escudero-Sahuquillo., P.J. Garcia and H. Fröning\n   Título: Effects of Congestion Management on Energy Saving Techniques in Interconnection Networks\n   Publicación: Proceedings of the IEEE International Workshop of High-Perfomance Interconnection Networks in the\n   Exascale and Big-Data Era (HiPINEB 2019)\n   Ref. ISBN: 978-1-7281-4818-2\n   DOI: 10.1109/HiPINEB.2019.00009\n   Páginas, inicial: 9                   final: 16 Fecha: 24 Febrero 2019\n   Editorial (si libro): IEEE Computer Society Press                 Lugar de publicación: Washington, DC (USA)\n   Tasa de aceptación:         Nº de revisiones: 3\n   Clase congreso ranking GII-GRIN-SCIE (2021): No indexado"
+  },
+  {
+    "type": "inproceedings",
+    "number": 25,
+    "cv_title": "Optimizing Packet Dropping by Efficient Congesting-Flow Isolation in Lossy Data-Center Networks",
+    "doi": "10.1109/HOTI51249.2020.00022",
+    "source": "C. Olmedilla, J. Escudero-Sahuquillo, P.J. García, F.J. Alfaro, F.J. Quiles, J.L.\n   Sánchez, W. Sun, X. Yu, Y. Xu and J. Duato\n   Título: Optimizing Packet Dropping by Efficient Congesting-Flow Isolation in Lossy Data-Center\n   Networks\n   Publicación: Proceedings of the 27th IEEE Symposium on High-Performance Interconnects (HOTI 2020)\n   Ref. ISBN: 978-1-7281-9589-6\n   DOI: 10.1109/HOTI51249.2020.00022\n   Páginas, inicial: 47        final: 54 Fecha: 19-21 de agosto de 2020\n   Editorial (si libro): IEEE Computer Society Press                  Lugar de publicación:\n   Tasa de aceptación: 10 / 29 => 34.4%           Nº de revisiones: 4\n   Clase congreso ranking GII-GRIN-SCIE (2021): 2, A-"
+  },
+  {
+    "type": "inproceedings",
+    "number": 26,
+    "cv_title": "Modeling Weighted Round-Robin Switch Arbitration in NetFPGA-SUME Switches",
+    "doi": null,
+    "source": "A. Morán, J. Escudero-Sahuquillo, P.J. García, F.J. Quiles, S. Rodrigo-Mocholí\n    Título: Modeling Weighted Round-Robin Switch Arbitration in NetFPGA-SUME Switches\n    Publicación: Proceedings of the 18th International Conference on High Performance Computing &\n    Simulation (HPCS 2020)\n    Ref. ISBN , DOI:\n    Páginas, inicial:         final: Fecha: 22 de marzo de 2021\n    Editorial (si libro): IEEE Computer Society Press    Lugar de publicación: Barcelona (España)\n    Tasa de aceptación:                                       Nº de revisiones: 3\n    Clase congreso ranking GII-GRIN-SCIE (2021): 3, B-"
+  },
+  {
+    "type": "inproceedings",
+    "number": 27,
+    "cv_title": "Adaptive Routing in InfiniBand Hardware",
+    "doi": "10.1109/CCGRID54584.2022.00056",
+    "source": "J. Rocher, E. G. Gran, S-A Reinemo, T. Skeie, J. Escudero-Sahuquillo, P.J.\n   García, F.J. Quiles\n   Título: Adaptive Routing in InfiniBand Hardware\n   Publicación: Proceedings of the 22nd IEEE/ACM International Symposium on Cluster, Cloud and\n   Internet Computing (CCGRID 2022)\n   Ref. ISBN 978-1-6654-9957-6,\n   DOI: 10.1109/CCGRID54584.2022.00056\n   Páginas, inicial: 463 final: 472         Fecha: 16-19 mayo 2022\n   Editorial (si libro): IEEE Computer Society Press       Lugar de publicación: Taormina (Italia)\n   Tasa de aceptación: 75 / 302 => 24%                       Nº de revisiones: 4\n   Clase congreso ranking GII-GRIN-SCIE (2021): 2, A"
+  },
+  {
+    "type": "inproceedings",
+    "number": 28,
+    "cv_title": "Improving Congestion Control through Fine-Grain Monitoring of InfiniBand Networks",
+    "doi": "10.1109/HOTI55740.2022.00020",
+    "source": "A. Cascajo, G. Gómez, J. Escudero-Sahuquillo, P.J. García, D.E. Singh, F. Alfaro,\n   F.J. Quiles, J. Carretero\n   Título: Improving Congestion Control through Fine-Grain Monitoring of InfiniBand Networks\n   Publicación: Proceedings of the 29th IEEE Symposium on High-Performance Interconnects (Hot\n   Interconnects 2022)\n   Ref. ISBN 978-1-6654-8679-8,\n   DOI: 10.1109/HOTI55740.2022.00020\n   Páginas, inicial: 29       final: 38      Fecha: 17-19 agosto 2022\n   Editorial (si libro): IEEE Computer Society Press, Lugar de publicación: Santa Clara, California (EE.UU.)\n   Tasa de aceptación: 6 / 21 => 28,5%                         Nº de revisiones: 4\n   Clase congreso ranking GII-GRIN-SCIE (2021): 2, A-"
+  },
+  {
+    "type": "inproceedings",
+    "number": 29,
+    "cv_title": "A Hybrid Solution to Provide End-to-End Flow Control and Congestion Management in High- Performance Interconnection Networks",
+    "doi": "10.1109/CCGrid59990.2024.00011",
+    "source": "A. Merino, J. Escudero-Sahuquillo, P.J. García, F.J. Quiles, Fei Chen, Yunping\n   Lyu, Long Yan, J. Duato\n   Título: A Hybrid Solution to Provide End-to-End Flow Control and Congestion Management in High-\n   Performance Interconnection Networks\n   Publicación: Proceedings of the 24th IEEE/ACM International Symposium on Cluster, Cloud and\n   Internet Computing (CCGRID 2024)\n   Ref. ISBN 979-8-3503-9566-2,\n   DOI: 10.1109/CCGrid59990.2024.00011\n   Páginas, inicial: 8        final: 17      Fecha: 6-9 mayo 2024\n   Editorial (si libro): IEEE Computer Society Press,Lugar de publicación: Philadelphia, Pennsylvania (EE.UU.)\n   Tasa de aceptación: 51 / 194 => 26,3%                        Nº de revisiones: 3+\n   Clase congreso ranking GII-GRIN-SCIE (2021): 2, A"
+  },
+  {
+    "type": "inproceedings",
+    "number": 30,
+    "cv_title": "A New Mechanism to Identify Congesting Packets in High-Performance Interconnection Networks",
+    "doi": "10.1109/HOTI63208.2024.00016",
+    "source": "C. Olmedilla, J. Escudero-Sahuquillo, P. J. García, Francisco J. Quiles, W. Sun,\n   L. Yan, Y. Lvu, J. Duato\n   Título: A New Mechanism to Identify Congesting Packets in High-Performance Interconnection\n   Networks (best student paper award)\n   Publicación:Proceedings of the 31th IEEE Symposium on High-Performance Interconnects (Hot\n   Interconnects 2024)\n   Ref. ISBN: 979-8-3503-5601-4\n   DOI: 10.1109/HOTI63208.2024.00016\n   Páginas, inicial: 24      final: 32        Fecha: 21-23 agosto 2024\n   Editorial (si libro): IEEE Computer Society Press, Lugar de publicación: Santa Clara, California (EE.UU.)\n   Tasa de aceptación: 8 / 16 => 50%                           Nº de revisiones: 4\n   Clase congreso ranking GII-GRIN-SCIE (2021): 2, A-"
+  },
+  {
+    "type": "inproceedings",
+    "number": 31,
+    "cv_title": "Quality-of-Service Provision for BXI3-Based Interconnection Networks",
+    "doi": "10.1109/HOTI63208.2024.00015",
+    "source": "M. S. de la Rosa, G. Gomez-Lopez, F. J. Andújar, J. Escudero-Sahuquillo, J. L.\n    Sánchez, F. J. Alfaro, P.-A. Lagadec\n    Título: Quality-of-Service Provision for BXI3-Based Interconnection Networks\n    Publicación: Proceedings of the 31th IEEE Symposium on High-Performance Interconnects (Hot\n    Interconnects 2024)\n    Ref. ISBN: 979-8-3503-5601-4\n    DOI: 10.1109/HOTI63208.2024.00015\n    Páginas, inicial: 20      final: 23       Fecha: 21-23 agosto 2024\n    Editorial (si libro): IEEE Computer Society Press, Lugar de publicación: Santa Clara, California (EE.UU.)\n    Tasa de aceptación: 8 / 16 => 50%                           Nº de revisiones: 4\n    Clase congreso ranking GII-GRIN-SCIE (2021): 2, A-"
+  },
+  {
+    "type": "inproceedings",
+    "number": 32,
+    "cv_title": "Hybrid Congestion Control for BXI-Based Interconnection Networks",
+    "doi": "10.1007/978-3-031-69766-1_17",
+    "source": "G. Gomez-Lopez, M. Sánchez de la Rosa, J. Escudero-Sahuquillo, P. J. García,\n    F. J. Quiles, P.-A. Lagadec\n    Título: Hybrid Congestion Control for BXI-Based Interconnection Networks\n    Publicación: Proceedings of 30th European Conference on Parallel and Distributed Processing (Euro-\n    Par 2024), Lecture Notes in Computer Science (LNCS, volume 14802).\n    Ref. 978-3-031-69765-4\n    DOI: 10.1007/978-3-031-69766-1_17\n    Páginas, inicial 242, final: 256         Fecha: 26-30 agosto 2024\n    Editorial (si libro): Springer Cham,     Lugar de publicación: Suiza\n    Tasa de aceptación: 88 / 309 => 29%                           Nº de revisiones: 4\n    Clase congreso ranking GII-GRIN-SCIE (2021): 3, B-\n\f"
+  }
+]
