@@ -4,7 +4,7 @@ title: CV
 permalink: /cv/
 nav: true
 nav_order: 7
-description: Academic profile and complete curriculum vitae.
+description: Academic profile and curriculum vitae.
 ---
 
 This page provides a concise overview of my academic career. Detailed records of publications, projects, teaching, supervision and service are available in their respective sections.
