@@ -11,6 +11,8 @@ description: Journal articles, conference papers, preprints and editorial work i
 
 Updated from my [DBLP profile](https://dblp.org/pid/72/1341.html) on **28 September 2026**, with bibliographic details checked against publisher metadata where available. All DBLP-indexed preprints are listed, including those that also have a peer-reviewed version. Browse by section and year.
 
+Publications marked **Open Access** have an openly accessible version recorded in the bibliography, such as an arXiv version or an openly available preprint.
+
 [Journal articles](#journal-articles) · [Conference papers](#conference-papers) · [Preprints](#preprints) · [Editorial work](#editorial-work) · [Download BibTeX]({{ '/assets/bibliography/papers.bib' | relative_url }}) · [CV]({{ '/cv/' | relative_url }})
 
 ## Journal articles
