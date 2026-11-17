@@ -17,23 +17,23 @@ English-language delivery is identified explicitly. When I taught both the Spani
 
 | Academic year | Courses taught                                                                                                                                                        |
 | :------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2006–2007     | Fundamentals of Programming I                                                                                                                                         |
-| 2008–2009     | Computer Networks                                                                                                                                                     |
-| 2009–2010     | Computer Architecture and Engineering<br>Computer Structure                                                                                                           |
-| 2010–2011     | Industrial Informatics                                                                                                                                                |
-| 2011–2012     | High-Performance Interconnection Networks **(English)**                                                                                                               |
-| 2012–2013     | High-Performance Networks                                                                                                                                             |
-| 2014–2015     | Configuration and Optimization of Computing Systems<br>Advanced Seminars<br>High-Performance Networks                                                                 |
-| 2015–2016     | Network Technology<br>Advanced Computers<br>Computer Architecture<br>IT and Innovation Management                                                                     |
-| 2016–2017     | Advanced Computers<br>Microprocessor-Based Systems Design<br>IT and Innovation Management                                                                             |
-| 2017–2018     | Advanced Computers<br>Microprocessor-Based Systems Design<br>IT and Innovation Management<br>Computer Organization **(English)**                                      |
-| 2018–2019     | Advanced Computers<br>Microprocessor-Based Systems Design<br>Computer Organization **(English)**<br>Computer Literacy I                                               |
-| 2019–2020     | Advanced Computers<br>Microprocessor-Based Systems Design<br>Computer Organization **(English)**                                                                      |
-| 2020–2021     | Advanced Computers<br>Microprocessor-Based Systems Design<br>Computer Architecture **(English/Spanish)**<br>Networks I **(English/Spanish)**                          |
-| 2021–2022     | Advanced Computers<br>Microprocessor-Based Systems Design<br>Computer Architecture<br>Computer Organization **(English/Spanish)**<br>Networks I **(English/Spanish)** |
-| 2022–2023     | Advanced Computers<br>Computer Architecture **(English)**<br>Computer Organization **(English/Spanish)**                                                              |
-| 2024–2025     | Advanced Computers<br>Computer Architecture **(English)**<br>Computer Organization **(English)**                                                                      |
 | 2025–2026     | Advanced Computers<br>Computer Architecture **(English)**<br>Computer Organization **(English)**                                                                      |
+| 2024–2025     | Advanced Computers<br>Computer Architecture **(English)**<br>Computer Organization **(English)**                                                                      |
+| 2022–2023     | Advanced Computers<br>Computer Architecture **(English)**<br>Computer Organization **(English/Spanish)**                                                              |
+| 2021–2022     | Advanced Computers<br>Microprocessor-Based Systems Design<br>Computer Architecture<br>Computer Organization **(English/Spanish)**<br>Networks I **(English/Spanish)** |
+| 2020–2021     | Advanced Computers<br>Microprocessor-Based Systems Design<br>Computer Architecture **(English/Spanish)**<br>Networks I **(English/Spanish)**                          |
+| 2019–2020     | Advanced Computers<br>Microprocessor-Based Systems Design<br>Computer Organization **(English)**                                                                      |
+| 2018–2019     | Advanced Computers<br>Microprocessor-Based Systems Design<br>Computer Organization **(English)**<br>Computer Literacy I                                               |
+| 2017–2018     | Advanced Computers<br>Microprocessor-Based Systems Design<br>IT and Innovation Management<br>Computer Organization **(English)**                                      |
+| 2016–2017     | Advanced Computers<br>Microprocessor-Based Systems Design<br>IT and Innovation Management                                                                             |
+| 2015–2016     | Network Technology<br>Advanced Computers<br>Computer Architecture<br>IT and Innovation Management                                                                     |
+| 2014–2015     | Configuration and Optimization of Computing Systems<br>Advanced Seminars<br>High-Performance Networks                                                                 |
+| 2012–2013     | High-Performance Networks                                                                                                                                             |
+| 2011–2012     | High-Performance Interconnection Networks **(English)**                                                                                                               |
+| 2010–2011     | Industrial Informatics                                                                                                                                                |
+| 2009–2010     | Computer Architecture and Engineering<br>Computer Structure                                                                                                           |
+| 2008–2009     | Computer Networks                                                                                                                                                     |
+| 2006–2007     | Fundamentals of Programming I                                                                                                                                         |
 
 ## Postgraduate education
 
